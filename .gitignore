@@ -1,0 +1,12 @@
+# Configurações e dados locais
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+work/
