@@ -1,5 +1,7 @@
 # Licença dos textos
 
+**Português** · [English](LICENSE.en.md)
+
 Os textos deste projeto são disponibilizados por **Androquimera**, em 2026, sob a licença **Creative Commons Atribuição 4.0 Internacional — CC BY 4.0**, na medida dos direitos aplicáveis.
 
 Você pode compartilhar e adaptar o material, inclusive para fins comerciais, respeitando as condições da licença: atribuição, referência à licença e indicação de alterações, sem sugerir endosso indevido.

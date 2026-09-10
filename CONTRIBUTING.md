@@ -1,5 +1,7 @@
 # Como participar
 
+**Português** · [English](CONTRIBUTING.en.md)
+
 O projeto recebe pessoas de qualquer crença ou sem religião. Você pode concordar com sua direção e questionar seus textos e métodos.
 
 Comece pelo [manifesto](MANIFESTO.md). Para contribuir, abra uma issue com uma pergunta ou proposta concreta, ou envie uma alteração por pull request. Uma correção de linguagem, tradução acessível, fonte melhor ou crítica fundamentada tem valor.
@@ -14,6 +16,12 @@ Explique, na medida do que estiver propondo:
 - limitações, custos e possíveis efeitos indesejados.
 
 Adapte o nível de detalhe ao tamanho da mudança. Uma correção de texto não precisa de um relatório.
+
+## Publicações em português e inglês
+
+Tudo que o projeto publica deve ter versões completas em português brasileiro e inglês, na mesma entrega. Mantenha os pares de documentos e os links entre idiomas. Correções e ampliações precisam chegar às duas versões, preservando fontes, números, incertezas e ressalvas.
+
+Você pode propor uma contribuição em um idioma e pedir ajuda com a tradução. A publicação final só estará pronta quando as duas versões tiverem sido preparadas e revisadas.
 
 ## Como convivemos
 

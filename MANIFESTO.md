@@ -1,5 +1,7 @@
 # Por um Futuro em Comum
 
+**Português** · [English](MANIFESTO.en.md)
+
 Que viver possa ser mais do que resistir.  
 Que a inteligência aprenda a cuidar.  
 Que o futuro tenha lugar para quem ainda nem nasceu.

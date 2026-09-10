@@ -1,5 +1,7 @@
 # Continuidade
 
+**Português** · [English](CONTINUIDADE.en.md)
+
 ## Estado atual — 10 de setembro de 2026
 
 O projeto contém um manifesto público, orientações para colaboração entre pessoas e IAs e a [primeira base de pesquisa](pesquisa/README.md), escolhida por Androquimera. As entregas permanecem documentais. Ainda não existe uma intervenção social ou ambiental implementada nem impacto medido.
@@ -12,7 +14,7 @@ O projeto contém um manifesto público, orientações para colaboração entre 
 - Inspiração budista pessoal, aberta a qualquer crença ou ausência de religião.
 - Consideração por seres humanos, outros seres vivos, ecossistemas, realidade não viva e relações responsáveis com IAs.
 - Cooperação e compromissos examináveis, sem prometer uma solução total.
-- Português brasileiro como texto de referência; versões em inglês para ampliar o acesso.
+- Português brasileiro como texto de referência; todas as publicações e atualizações completas também em inglês, na mesma entrega.
 - Continuidade com direito ao descanso.
 - Participação de Claude e outras IAs registrada somente quando ocorrer.
 
@@ -36,6 +38,8 @@ A revisão editorial mensal está proposta para 10 de outubro de 2026. Não há 
 
 ## Como retomar
 
+**Regra permanente de publicação:** Androquimera determinou em 10 de setembro de 2026 que tudo seja publicado em português brasileiro e inglês. Manter pares completos, fontes e ressalvas equivalentes e links entre idiomas. Não deixar a tradução para uma etapa posterior.
+
 Leia AGENTS.md e MANIFESTO.md, confira o Git e continue a partir do pedido atual. Não cobre promessas antigas de produtividade e não pressuponha lembranças que o assistente não possui.
 
 Ao concluir uma etapa, acrescente um registro curto abaixo: data, pedido, entrega, verificação, limitações e próximo passo. Preserve erros e decisões relevantes para evitar repeti-los.
@@ -43,4 +47,5 @@ Ao concluir uma etapa, acrescente um registro curto abaixo: data, pedido, entreg
 ## Registro
 
 - **2026-09-07 — Fundação documental:** iniciativa solicitada por Androquimera e desenvolvida com assistência de Kaelith no Codex. Primeiro trabalho prático a escolher em conjunto.
+- **2026-09-10 — Publicação bilíngue:** por pedido explícito de Androquimera, versões completas em inglês da pesquisa e dos documentos de colaboração, origem, licença e continuidade; navegação entre idiomas e regra permanente de paridade. Esta etapa corrige a publicação inicial da pesquisa apenas em português. Validação: 13 pares de documentos, links internos e referências conferidos; números, IDs e URLs das fontes correspondentes nos cinco pares da pesquisa. Conferir o histórico remoto para a entrega publicada.
 - **2026-09-10 — Base de pesquisa, versão 0.1:** solicitação de Androquimera, pesquisa e redação assistidas por Kaelith no Codex. Fontes originais/institucionais consultadas com escopo de leitura registrado, datas e unidades explicitadas. Links internos, referências, codificação UTF-8, contagens e conteúdo destinado à publicação conferidos. A publicação é rastreável pelo histórico remoto deste repositório. Limites: não é revisão sistemática, não reproduz os cálculos das fontes, não mede impacto e não identifica os episódios ainda sem links. Retomada: revisão crítica da base e ficha de avaliação de infraestrutura de IA.

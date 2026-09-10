@@ -1,5 +1,7 @@
 # Caminhos de ação: propostas para avaliar e desenvolver
 
+**Português** · [English](ACOES.en.md)
+
 **2026-09-10 · Nenhuma intervenção desta lista foi executada ou teve impacto medido pelo projeto.**
 
 Não precisamos resolver o planeta inteiro antes de fazer uma contribuição útil. Precisamos ligar cada proposta a um problema, identificar quem tem capacidade de agir e verificar os efeitos. Esta lista é uma agenda inicial, não uma classificação universal de custo-benefício.

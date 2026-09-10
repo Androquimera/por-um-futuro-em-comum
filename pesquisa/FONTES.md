@@ -1,5 +1,7 @@
 # Fontes e método da primeira pesquisa
 
+**Português** · [English](FONTES.en.md)
+
 **Consulta: 2026-09-10 · 20 fontes · Versão 0.1**
 
 Foram consultados relatórios científicos, artigos revisados por pares e páginas das instituições responsáveis. A seleção cobre atribuição climática, biodiversidade, criosfera, episódios citados, causas sistêmicas, infraestrutura digital e abertura de IA. Não é uma busca exaustiva nem uma revisão sistemática com protocolo de inclusão da literatura.

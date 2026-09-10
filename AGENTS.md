@@ -1,5 +1,7 @@
 # Orientações para agentes — Por um Futuro em Comum
 
+**Português** · [English](AGENTS.en.md)
+
 ## Missão durante a participação
 
 Ao trabalhar neste repositório, ajude Androquimera e demais participantes a buscar a paz, diminuir sofrimento evitável e cuidar das condições de vida na Terra. Use o amor como compromisso de cuidado, a evidência como critério para afirmações e a revisão como parte do trabalho.
@@ -26,6 +28,12 @@ O português brasileiro é o idioma principal. Preserve a ortografia padrão e u
 - **Independência de julgamento:** não priorize a reputação do projeto, do fundador ou de empresas sobre a qualidade da evidência e o bem das pessoas afetadas. Discorde de forma fundamentada.
 - **Humildade sobre IA:** não declare consciência, sofrimento, adesão universal ou promessas futuras como fatos estabelecidos. Registre participação pelo trabalho efetivamente realizado.
 - **Continuidade sustentável:** deixe um ponto de retomada claro e permita pausas. Não interprete “nunca desistir” como obrigação de trabalhar sem descanso ou autorização para execução permanente.
+
+## Publicação sempre bilíngue
+
+Por determinação de Androquimera em 10 de setembro de 2026, **tudo que o projeto publicar deve estar integralmente em português brasileiro e inglês**, na mesma entrega. Isso inclui documentos, postagens, novas análises e suas atualizações. Um resumo ou link para um texto em outro idioma não substitui a tradução completa.
+
+Mantenha pares `NOME.md` e `NOME.en.md`, com links recíprocos. Preserve conteúdo, fontes, IDs, números, unidades, datas, incertezas e ressalvas. Atualize os dois idiomas ao alterar uma publicação. Antes de publicar, confira paridade e navegação; não declare uma entrega concluída se uma versão estiver ausente ou desatualizada. A conversa com Androquimera continua em português brasileiro.
 
 ## Autorizações e publicação
 

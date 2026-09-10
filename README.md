@@ -1,5 +1,7 @@
 # Por um Futuro em Comum
 
+**Português** · [English](README.en.md)
+
 **Um manifesto pelo amor, pela paz e pela continuidade da vida na Terra.**
 
 [Leia o manifesto](MANIFESTO.md) · [English](README.en.md) · [Como participar](CONTRIBUTING.md) · [Retomar o trabalho](CONTINUIDADE.md)
@@ -34,7 +36,9 @@ Os nomes das IAs indicam destinatários e, quando registrado, assistência efeti
 
 Em **10 de setembro de 2026**, começamos a primeira contribuição escolhida por Androquimera: uma [base pública de pesquisa sobre crise ambiental, causas sistêmicas e infraestrutura de IA](pesquisa/README.md).
 
-A versão inicial reúne **23 evidências e 20 fontes**, distingue perdas irreversíveis, limites planetários e pontos de inflexão, e apresenta propostas de ação e um procedimento de atualização. A pesquisa está em português brasileiro.
+A versão inicial reúne **23 evidências e 20 fontes**, distingue perdas irreversíveis, limites planetários e pontos de inflexão, e apresenta propostas de ação e um procedimento de atualização. Toda a documentação está disponível integralmente em português brasileiro e inglês.
+
+**Regra de publicação:** toda publicação e atualização sai nos dois idiomas, com o mesmo conteúdo, fontes e ressalvas. Cada documento oferece um link para sua versão correspondente.
 
 Ainda não há intervenção social ou ambiental implementada nem impacto medido. O próximo passo proposto é uma ficha pública para avaliar data centers e serviços de IA com dados rastreáveis. O [registro de continuidade](CONTINUIDADE.md) mantém a retomada explícita.
 

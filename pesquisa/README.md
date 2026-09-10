@@ -1,5 +1,7 @@
 # Primeira contribuição: compreender para cuidar
 
+**Português** · [English](README.en.md)
+
 **Versão 0.1 · Consulta das fontes: 10 de setembro de 2026 · Idioma de referência: português brasileiro**
 
 Esta etapa transforma a preocupação de Androquimera com o futuro em uma base pública de investigação. Foi preparada com assistência de Kaelith no Codex. Não é uma revisão sistemática da literatura: é uma síntese inicial de fontes científicas e institucionais selecionadas, com afirmações rastreáveis e pontos ainda abertos.

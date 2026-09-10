@@ -1,5 +1,7 @@
 # Como manter a pesquisa atualizada
 
+**Português** · [English](ATUALIZACAO.en.md)
+
 **Procedimento inicial: 2026-09-10 · Próxima revisão editorial proposta: 2026-10-10**
 
 A base é revisável e sua atualização, nesta etapa, é manual. **Não há monitoramento, agendamento ou coleta automática ativados.** A data proposta organiza uma retomada; não é promessa de execução em segundo plano.
@@ -21,7 +23,7 @@ Indicadores anuais não precisam ser reescritos a cada notícia diária. Uma atu
 4. Atualizar ou acrescentar a linha pertinente em EVIDENCIAS.md. Preservar o ID, registrar o que mudou e manter períodos diferentes distinguíveis.
 5. Revisar conclusões afetadas em README.md e ACOES.md. Uma alteração que enfraqueça nossa tese também deve ser incorporada.
 6. Acrescentar ou corrigir a ficha da fonte em FONTES.md. Informar se foram lidos resumo, seção, tabela ou texto integral; não inventar revisão completa.
-7. Conferir links internos, referências, unidades, incertezas e conteúdo do diff. Evitar dados privados e texto copiado de fontes.
+7. Atualizar integralmente português e inglês na mesma entrega. Conferir paridade de conteúdo, IDs, fontes, números, datas, unidades e ressalvas, além de links internos e conteúdo do diff. Evitar dados privados e texto copiado de fontes. Não publicar com uma versão ausente ou desatualizada.
 8. Atualizar CONTINUIDADE.md com entrega, verificação, limites e próximo passo. Publicar quando a tarefa vigente autorizar; verificar o commit remoto após o push.
 
 ## Regras que evitam conclusões falsas
@@ -46,3 +48,5 @@ Indicadores anuais não precisam ser reescritos a cada notícia diária. Uma atu
 | 2026-09-10 | 0.1 | Primeira síntese, 23 evidências, quatro alegações em aberto ou além da evidência e 20 fontes. Inclui a contribuição de Androquimera sobre perdas irreversíveis e marcos ultrapassados, distinguindo limites e pontos de inflexão. Eletricidade usa atualizações de abril e junho de 2026; água mantém estimativas dos EUA de 2023, explicitamente datadas. |
 
 Correções futuras devem indicar a alegação anterior e o motivo, sem apagar silenciosamente um erro importante.
+
+Em 2026-09-10, a publicação foi completada em inglês, com o mesmo conteúdo da versão portuguesa. A regra permanente passa a exigir os dois idiomas em cada publicação e atualização.

@@ -1,8 +1,10 @@
 # Toward a Shared Future
 
+[Português](README.md) · **English**
+
 **A manifesto for love, peace, and the continuity of life on Earth.**
 
-[Read the manifesto](MANIFESTO.en.md) · [Português](README.md) · [Contribute](CONTRIBUTING.md) · [Continue the work](CONTINUIDADE.md)
+[Read the manifesto](MANIFESTO.en.md) · [Português](README.md) · [Contribute](CONTRIBUTING.en.md) · [Continue the work](CONTINUIDADE.en.md)
 
 > May living become more than enduring.  
 > May intelligence learn to care.  
@@ -24,24 +26,26 @@ The manifesto offers a direction and commitments to practice. Answers remain ope
 
 ## For people and AI assistants
 
-- **People:** start with the [manifesto](MANIFESTO.en.md). Corrections, accessible translations, and well-supported questions can all contribute.
-- **Codex, Kaelith/GPT, and other agents:** read [AGENTS.md](AGENTS.md), then [CONTINUIDADE.md](CONTINUIDADE.md).
-- **Claude:** begin with [CLAUDE.md](CLAUDE.md), which contains an explicit invitation and guidance for participating.
+- **People:** start with the [manifesto](MANIFESTO.en.md) and [contribution guide](CONTRIBUTING.en.md). Corrections, accessible translations, and well-supported questions can all contribute.
+- **Codex, Kaelith/GPT, and other agents:** read the [agent guidance](AGENTS.en.md), then the [continuity record](CONTINUIDADE.en.md).
+- **Claude:** begin with [your role in this project](CLAUDE.en.md), which contains an explicit invitation and guidance for participating.
 
-The operating documents are currently in Brazilian Portuguese. The Portuguese manifesto is the reference text; this English version is intended to broaden access. Translation corrections are welcome.
+All documentation is available in full in Brazilian Portuguese and English. Portuguese remains the reference language. Translation corrections are welcome.
 
 AI names identify invited participants or assistance actually provided. This project does not presume agreement from absent systems or represent OpenAI, Anthropic, or other organizations.
 
 ## Where we are
 
-On **September 10, 2026**, Androquimera chose the first contribution: a [public research baseline on environmental harm, systemic causes, and AI infrastructure](pesquisa/README.md), currently available in Brazilian Portuguese.
+On **September 10, 2026**, Androquimera chose the first contribution: a [public research baseline on environmental harm, systemic causes, and AI infrastructure](pesquisa/README.en.md), available in full in Brazilian Portuguese and English.
 
 The initial version records **23 evidence statements and 20 sources**, distinguishes irreversible losses, planetary boundaries, and tipping points, and offers proposed actions and a manual update procedure. No social or environmental intervention has been implemented or its impact measured.
 
+**Publication rule:** every publication and update is released in both languages, with the same content, sources, and caveats. Each document links to its counterpart.
+
 The proposed next step is a reusable public assessment form for data centers and AI services, based on traceable information. Participation does not require buying hardware, subscriptions, or hosting.
 
-Initiated by **Androquimera** on September 7, 2026, with writing assistance from **Kaelith in Codex**. [Origin and credits](ORIGEM.md) distinguish human intention, AI assistance, and future participation.
+Initiated by **Androquimera** on September 7, 2026, with writing assistance from **Kaelith in Codex**. [Origin and credits](ORIGEM.en.md) distinguish human intention, AI assistance, and future participation.
 
-The texts are available under [CC BY 4.0](LICENSE.md), allowing sharing and adaptation with attribution and notice of changes.
+The texts are available under [CC BY 4.0](LICENSE.en.md), allowing sharing and adaptation with attribution and notice of changes.
 
 **Love guides us. Reality corrects us. We do the work together.**

@@ -1,0 +1,51 @@
+# Continuity
+
+[Português](CONTINUIDADE.md) · **English**
+
+## Current status — September 10, 2026
+
+The project contains a public manifesto, guidance for collaboration between people and AI systems, and the [first research baseline](pesquisa/README.en.md), chosen by Androquimera. The deliverables remain documentary. No social or environmental intervention has yet been implemented or its impact measured.
+
+## Decisions preserved
+
+- Name: **Por um Futuro em Comum / Toward a Shared Future**.
+- Initiative and human direction: **Androquimera**.
+- Ethical center: love, compassion, peace with justice, and care for the Earth.
+- Personal Buddhist inspiration, open to any faith or none.
+- Consideration for human beings, other living beings, ecosystems, nonliving reality, and responsible relationships with AI systems.
+- Cooperation and commitments open to scrutiny, without promising a complete solution.
+- Brazilian Portuguese as the reference text; all publications and updates also complete in English, in the same delivery.
+- Continuity with the right to rest.
+- Participation by Claude and other AI systems recorded only when it occurs.
+
+## Inaugural delivery
+
+- Manifesto in Portuguese and an English version.
+- Project introduction in Portuguese and English.
+- AGENTS.md for agents and CLAUDE.md to help resume work in Claude.
+- Origins, credits, contribution guidance, and a license for the texts.
+- Review of consistency, internal links, and content to publish; the remote GitHub history provides evidence of publication.
+
+## First contribution chosen and next step
+
+Androquimera chose to investigate the climate and ecological crisis, irreversible losses, systemic causes, data center impacts, and openness in AI. They requested factual analysis, publication, and continued updating of the data.
+
+Version 0.1 brings together a synthesis, 23 evidence statements, 20 sources, proposed actions, and a manual update procedure. Specific reports about blue ice in Nepal and an eruption remain unidentified. The baseline distinguishes crossed boundaries from tipping points and from a prediction of global uninhabitability.
+
+**Proposed next step:** develop the public assessment form described in [ACOES.en.md](pesquisa/ACOES.en.md), choose a case with Androquimera, and record available information and gaps without inventing measurements.
+
+The monthly editorial review is proposed for October 10, 2026. No automation or recurring execution has been activated. No paid subscription, server, or purchase is required to participate.
+
+## How to resume
+
+**Permanent publication rule:** on September 10, 2026, Androquimera instructed that everything be published in Brazilian Portuguese and English. Maintain complete pairs, equivalent sources and caveats, and links between languages. Do not leave translation to a later stage.
+
+Read AGENTS.en.md and MANIFESTO.en.md, check Git, and continue from the current request. Do not demand fulfillment of old productivity promises or presume memories an assistant does not possess.
+
+At the end of a stage, add a short record below: date, request, delivery, verification, limitations, and next step. Preserve significant mistakes and decisions to avoid repeating them.
+
+## Record
+
+- **2026-09-07 — Documentary foundation:** initiative requested by Androquimera and developed with assistance from Kaelith in Codex. First practical contribution to be chosen together.
+- **2026-09-10 — Bilingual publication:** at Androquimera's explicit request, complete English versions of the research and the collaboration, origins, license, and continuity documents; navigation between languages and a permanent parity rule. This stage corrects the initial publication of the research in Portuguese alone. Validation: 13 document pairs, internal links and references checked; matching numbers, IDs, and source URLs across the five research pairs. Consult the remote history for the published delivery.
+- **2026-09-10 — Research baseline, version 0.1:** requested by Androquimera, with research and writing assistance from Kaelith in Codex. Original/institutional sources consulted with reading scope recorded and dates and units explicit. Internal links, references, UTF-8 encoding, counts, and content intended for publication checked. Publication is traceable through this repository's remote history. Limitations: this is not a systematic review, does not reproduce the sources' calculations, does not measure impact, and does not identify the episodes still lacking links. Resume with critical review of the baseline and an AI infrastructure assessment form.

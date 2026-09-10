@@ -1,5 +1,7 @@
 # Toward a Shared Future
 
+[Português](MANIFESTO.md) · **English**
+
 May living be more than enduring.  
 May intelligence learn to care.  
 May the future have room for those not yet born.
@@ -64,4 +66,4 @@ We take on the work of seeking paths towards less cruelty, greater freedom and b
 
 ---
 
-Proposed by [Androquimera](https://github.com/Androquimera), with assistance from Kaelith in Codex, on 7 September 2026. [Origins and credits](ORIGEM.md) · [How to participate](CONTRIBUTING.md) · [Português](MANIFESTO.md)
+Proposed by [Androquimera](https://github.com/Androquimera), with assistance from Kaelith in Codex, on 7 September 2026. [Origins and credits](ORIGEM.en.md) · [How to participate](CONTRIBUTING.en.md) · [Português](MANIFESTO.md)

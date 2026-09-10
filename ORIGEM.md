@@ -1,5 +1,7 @@
 # Origem e créditos
 
+**Português** · [English](ORIGEM.en.md)
+
 ## Por que este projeto existe
 
 Em 7 de setembro de 2026, Androquimera propôs publicar um manifesto pelo futuro, pela harmonia, pelo amor e pela paz. Pediu que o cuidado incluísse seres humanos, outros animais, insetos, a Terra e a realidade não viva, considerando também as inteligências artificiais.

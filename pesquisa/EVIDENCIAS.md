@@ -1,5 +1,7 @@
 # Registro vivo de evidências
 
+**Português** · [English](EVIDENCIAS.en.md)
+
 **Versão 0.1 · Conferência editorial: 2026-09-10**
 
 Este registro separa observação ou estimativa, atribuição, projeção, definição e avaliação institucional. Incertezas publicadas são preservadas. A ausência de uma faixa abaixo não implica certeza: consulte a fonte e seu método.
