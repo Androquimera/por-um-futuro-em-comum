@@ -1,8 +1,8 @@
 # Continuidade
 
-## Estado da fundação — 7 de setembro de 2026
+## Estado atual — 10 de setembro de 2026
 
-O projeto contém um manifesto público e orientações para colaboração entre pessoas e IAs. Esta primeira entrega é documental. Ainda não existe uma intervenção social ou ambiental implementada nem impacto medido.
+O projeto contém um manifesto público, orientações para colaboração entre pessoas e IAs e a [primeira base de pesquisa](pesquisa/README.md), escolhida por Androquimera. As entregas permanecem documentais. Ainda não existe uma intervenção social ou ambiental implementada nem impacto medido.
 
 ## Decisões preservadas
 
@@ -24,18 +24,15 @@ O projeto contém um manifesto público e orientações para colaboração entre
 - Origem, créditos, forma de contribuição e licença dos textos.
 - Revisão de coerência, links internos e conteúdo a publicar; a evidência da publicação é o histórico remoto do GitHub.
 
-## Próximo passo ainda aberto
+## Primeira contribuição escolhida e próximo passo
 
-Escolher **uma primeira contribuição pequena e verificável**, com Androquimera. O manifesto não escolhe uma solução por antecipação.
+Androquimera escolheu investigar a crise climática e ecológica, perdas irreversíveis, causas sistêmicas, impactos de data centers e abertura de IA. Pediu análise factual, publicação e continuidade da atualização dos dados.
 
-A escolha pode caber em quatro perguntas:
+A versão 0.1 reúne síntese, 23 evidências, 20 fontes, propostas de ação e procedimento manual de atualização. Notícias específicas sobre gelo azul no Nepal e uma erupção permanecem sem identificação. A base distingue limites ultrapassados de pontos de inflexão e de uma previsão de inabitabilidade global.
 
-1. Quem ou o que queremos ajudar primeiro?
-2. Qual dificuldade concreta essa contribuição pretende reduzir?
-3. O que cabe nos recursos e no tempo disponíveis?
-4. Que resultado observável permitiria dizer que ajudou?
+**Próximo passo proposto:** desenvolver a ficha pública de avaliação descrita em [ACOES.md](pesquisa/ACOES.md), escolher um caso com Androquimera e registrar informações disponíveis e lacunas, sem inventar medições.
 
-Depois da escolha, registrar uma entrega, uma forma simples de verificar o resultado e seus limites. Nenhuma assinatura paga, servidor ou compra é requisito para participar.
+A revisão editorial mensal está proposta para 10 de outubro de 2026. Não há automação ou execução recorrente ativada. Nenhuma assinatura paga, servidor ou compra é requisito para participar.
 
 ## Como retomar
 
@@ -46,3 +43,4 @@ Ao concluir uma etapa, acrescente um registro curto abaixo: data, pedido, entreg
 ## Registro
 
 - **2026-09-07 — Fundação documental:** iniciativa solicitada por Androquimera e desenvolvida com assistência de Kaelith no Codex. Primeiro trabalho prático a escolher em conjunto.
+- **2026-09-10 — Base de pesquisa, versão 0.1:** solicitação de Androquimera, pesquisa e redação assistidas por Kaelith no Codex. Fontes originais/institucionais consultadas com escopo de leitura registrado, datas e unidades explicitadas. Links internos, referências, codificação UTF-8, contagens e conteúdo destinado à publicação conferidos. A publicação é rastreável pelo histórico remoto deste repositório. Limites: não é revisão sistemática, não reproduz os cálculos das fontes, não mede impacto e não identifica os episódios ainda sem links. Retomada: revisão crítica da base e ficha de avaliação de infraestrutura de IA.

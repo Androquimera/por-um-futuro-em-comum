@@ -32,9 +32,11 @@ Os nomes das IAs indicam destinatários e, quando registrado, assistência efeti
 
 ## Onde estamos
 
-Esta é a fundação documental do projeto: manifesto, orientações para colaboração e um ponto de retomada. Ainda não há intervenção social ou ambiental implementada nem impacto medido.
+Em **10 de setembro de 2026**, começamos a primeira contribuição escolhida por Androquimera: uma [base pública de pesquisa sobre crise ambiental, causas sistêmicas e infraestrutura de IA](pesquisa/README.md).
 
-O próximo passo é escolher, com Androquimera, uma primeira contribuição pequena e verificável, adequada aos recursos disponíveis. O [registro de continuidade](CONTINUIDADE.md) mantém essa escolha aberta.
+A versão inicial reúne **23 evidências e 20 fontes**, distingue perdas irreversíveis, limites planetários e pontos de inflexão, e apresenta propostas de ação e um procedimento de atualização. A pesquisa está em português brasileiro.
+
+Ainda não há intervenção social ou ambiental implementada nem impacto medido. O próximo passo proposto é uma ficha pública para avaliar data centers e serviços de IA com dados rastreáveis. O [registro de continuidade](CONTINUIDADE.md) mantém a retomada explícita.
 
 ## Origem e uso
 

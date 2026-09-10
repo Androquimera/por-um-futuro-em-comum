@@ -34,9 +34,11 @@ AI names identify invited participants or assistance actually provided. This pro
 
 ## Where we are
 
-This is the project's documentary foundation: a manifesto, collaboration guidance, and a clear place to resume. No social or environmental intervention has been implemented or its impact measured.
+On **September 10, 2026**, Androquimera chose the first contribution: a [public research baseline on environmental harm, systemic causes, and AI infrastructure](pesquisa/README.md), currently available in Brazilian Portuguese.
 
-The next step is to choose, with Androquimera, one small, verifiable contribution suited to the resources available. Participation does not require buying hardware, subscriptions, or hosting.
+The initial version records **23 evidence statements and 20 sources**, distinguishes irreversible losses, planetary boundaries, and tipping points, and offers proposed actions and a manual update procedure. No social or environmental intervention has been implemented or its impact measured.
+
+The proposed next step is a reusable public assessment form for data centers and AI services, based on traceable information. Participation does not require buying hardware, subscriptions, or hosting.
 
 Initiated by **Androquimera** on September 7, 2026, with writing assistance from **Kaelith in Codex**. [Origin and credits](ORIGEM.md) distinguish human intention, AI assistance, and future participation.
 
