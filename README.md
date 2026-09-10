@@ -42,7 +42,7 @@ A versão inicial reúne **23 evidências e 20 fontes**, distingue perdas irreve
 
 Ainda não há intervenção social ou ambiental implementada nem impacto medido. A ficha pública para avaliar data centers e serviços de IA está preparada; o próximo passo proposto é aplicá-la a um caso concreto. O [registro de continuidade](CONTINUIDADE.md) mantém a retomada explícita.
 
-Também publicamos o [estudo focado em data centers](pesquisa/datacenters/README.md), com funcionamento físico, impactos, **24 fontes, sete casos regionais** e uma ficha reutilizável de avaliação. A [responsabilidade editorial](RESPONSABILIDADE.md) identifica modelo, revisor/editor e estado real da revisão em todas as publicações. O estudo é uma versão pública de trabalho; a revisão humana integral ainda não está registrada.
+Também publicamos o [estudo focado em data centers](pesquisa/datacenters/README.md), com funcionamento físico, impactos, **24 fontes, sete casos regionais** e uma ficha reutilizável de avaliação. A [responsabilidade editorial](RESPONSABILIDADE.md) identifica modelo e revisor em todas as publicações.
 
 ## Origem e uso
 
@@ -55,8 +55,6 @@ Textos disponibilizados sob [CC BY 4.0](LICENSE.md), para compartilhar e adaptar
 <!-- editorial-record -->
 ---
 
-**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+**Modelo:** GPT-6 Astra (`gpt-6-astra`).
 
-**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
-
-**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](RESPONSABILIDADE.md).
+**Revisor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

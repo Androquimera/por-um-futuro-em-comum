@@ -117,7 +117,7 @@ The measures we propose prioritizing are: choosing locations based on actual cap
 
 **The strongest criticism is verifiable:** who uses which resources, where, during what period, with what benefit, and who bears the risk? We presume neither harmlessness from efficiency nor guilt by association with the sector.
 
-This study brings together 24 sources and seven selected regional cases. It is not a representative global sample, a facility audit, or a systematic review. We did not measure pollution, tariffs, noise, or water in the field; we did not confirm administrative outcomes subsequent to the cited documents. Full human review is pending.
+This study brings together 24 sources and seven selected regional cases. It is not a representative global sample, a facility audit, or a systematic review. We did not measure pollution, tariffs, noise, or water in the field; we did not confirm administrative outcomes subsequent to the cited documents.
 
 The next concrete contribution could apply the [assessment form](METODO.en.md) to Pecém: collect available permits, studies, and operating data, check responses to the recommendations, and record gaps. The current study does not claim that this audit has already been performed.
 
@@ -149,8 +149,6 @@ The next concrete contribution could apply the [assessment form](METODO.en.md) t
 <!-- editorial-record -->
 ---
 
-**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+**Model:** GPT-6 Astra (`gpt-6-astra`).
 
-**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
-
-**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](../../RESPONSABILIDADE.en.md).
+**Reviewer:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

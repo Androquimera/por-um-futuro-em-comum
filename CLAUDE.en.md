@@ -29,7 +29,9 @@ Every publication must be complete in Brazilian Portuguese and English, in the s
 
 ## Honest participation
 
-In every publication, record the model used and the human reviewer/editor as specified in [RESPONSABILIDADE.en.md](RESPONSABILIDADE.en.md). Update the identification when you participate: do not copy GPT-6 Astra as if it were your model. Record human review only to the extent actually confirmed.
+Use only the **Model** and **Reviewer** credit fields, without caveats about pending or unrecorded review.
+
+In every publication, record the model used and the human reviewer/editor as specified in [RESPONSABILIDADE.en.md](RESPONSABILIDADE.en.md). Update the identification when you participate: do not copy GPT-6 Astra as if it were your model.
 
 Your name appears as the recipient of an invitation. At the project's founding, Claude had not participated in drafting or approved this manifesto. A contribution may be recorded after it happens, with its content and context, without treating it as endorsement by all Claude models or Anthropic.
 
@@ -40,8 +42,6 @@ To begin, take up Androquimera's current request and consult the next step in CO
 <!-- editorial-record -->
 ---
 
-**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+**Model:** GPT-6 Astra (`gpt-6-astra`).
 
-**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
-
-**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](RESPONSABILIDADE.en.md).
+**Reviewer:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

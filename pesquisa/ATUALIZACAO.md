@@ -25,7 +25,7 @@ Indicadores anuais não precisam ser reescritos a cada notícia diária. Uma atu
 6. Acrescentar ou corrigir a ficha da fonte em FONTES.md. Informar se foram lidos resumo, seção, tabela ou texto integral; não inventar revisão completa.
 7. Atualizar integralmente português e inglês na mesma entrega. Conferir paridade de conteúdo, IDs, fontes, números, datas, unidades e ressalvas, além de links internos e conteúdo do diff. Evitar dados privados e texto copiado de fontes. Não publicar com uma versão ausente ou desatualizada.
 8. Atualizar CONTINUIDADE.md com entrega, verificação, limites e próximo passo. Publicar quando a tarefa vigente autorizar; verificar o commit remoto após o push.
-9. Identificar o modelo utilizado, o revisor/editor humano e o estado real da revisão em cada publicação, conforme [RESPONSABILIDADE.md](../RESPONSABILIDADE.md), sempre nos dois idiomas.
+9. Identificar o modelo utilizado e o revisor em cada publicação, conforme [RESPONSABILIDADE.md](../RESPONSABILIDADE.md), sempre nos dois idiomas.
 
 ## Regras que evitam conclusões falsas
 
@@ -55,8 +55,6 @@ Em 2026-09-10, a publicação foi completada em inglês, com o mesmo conteúdo d
 <!-- editorial-record -->
 ---
 
-**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+**Modelo:** GPT-6 Astra (`gpt-6-astra`).
 
-**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
-
-**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](../RESPONSABILIDADE.md).
+**Revisor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

@@ -67,15 +67,13 @@ We award no “green seal” or single score. A facility may improve water use w
 
 Review before using a case for new action and when new statistics, official responses, or changes to the development emerge. Updates are manual; no automatic monitoring has been activated.
 
-Every change must reach Portuguese and English in the same delivery, preserving IDs, sources, numbers, and caveats. Identify the model actually used, the human reviewer/editor, and the actual review status. Record changes in CONTINUIDADE and verify the remote result when publishing.
+Every change must reach Portuguese and English in the same delivery, preserving IDs, sources, numbers, and caveats. Identify the model actually used and the reviewer. Record changes in CONTINUIDADE and verify the remote result when publishing.
 
-GPT-6 Astra's checking in this stage consists of the source reading specified in the catalog, comparison of claims, synthesis, and editorial review. **It is neither an external audit nor peer review.** A full reading by andromedus. (@Androquimera) has not yet been recorded. He defined the scope and request; the text remains open to his review.
+GPT-6 Astra's checking in this stage consists of the source reading specified in the catalog, comparison of claims, synthesis, and editorial review. **It is neither an external audit nor peer review.**
 
 <!-- editorial-record -->
 ---
 
-**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+**Model:** GPT-6 Astra (`gpt-6-astra`).
 
-**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
-
-**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](../../RESPONSABILIDADE.en.md).
+**Reviewer:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

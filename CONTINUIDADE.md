@@ -32,13 +32,13 @@ Androquimera escolheu investigar a crise climática e ecológica, perdas irrever
 
 A versão 0.1 reúne síntese, 23 evidências, 20 fontes, propostas de ação e procedimento manual de atualização. Notícias específicas sobre gelo azul no Nepal e uma erupção permanecem sem identificação. A base distingue limites ultrapassados de pontos de inflexão e de uma previsão de inabitabilidade global.
 
-O [estudo de data centers](pesquisa/datacenters/README.md) amplia essa base com 24 fontes, sete casos regionais e uma [ficha de avaliação já preparada](pesquisa/datacenters/METODO.md). **Próximo passo proposto:** revisão humana do estudo e aplicação da ficha a um caso, como o Pecém, reunindo documentos e dados sem inventar medições.
+O [estudo de data centers](pesquisa/datacenters/README.md) amplia essa base com 24 fontes, sete casos regionais e uma [ficha de avaliação já preparada](pesquisa/datacenters/METODO.md). **Próximo passo proposto:** aplicação da ficha a um caso, como o Pecém, reunindo documentos e dados sem inventar medições.
 
 A revisão editorial mensal está proposta para 10 de outubro de 2026. Não há automação ou execução recorrente ativada. Nenhuma assinatura paga, servidor ou compra é requisito para participar.
 
 ## Como retomar
 
-Toda publicação identifica modelo, revisor/editor humano e estado da revisão conforme [RESPONSABILIDADE.md](RESPONSABILIDADE.md). Modelo da edição atual: GPT-6 Astra, esforço high; responsável humano: andromedus. (@Androquimera). A leitura integral desta edição ainda não está registrada.
+Toda publicação identifica modelo e revisor conforme [RESPONSABILIDADE.md](RESPONSABILIDADE.md). Modelo da edição atual: GPT-6 Astra, esforço high; responsável humano: andromedus. (@Androquimera).
 
 **Regra permanente de publicação:** Androquimera determinou em 10 de setembro de 2026 que tudo seja publicado em português brasileiro e inglês. Manter pares completos, fontes e ressalvas equivalentes e links entre idiomas. Não deixar a tradução para uma etapa posterior.
 
@@ -48,7 +48,7 @@ Ao concluir uma etapa, acrescente um registro curto abaixo: data, pedido, entreg
 
 ## Registro
 
-- **2026-09-10 — Estudo de data centers:** pesquisa narrativa em português e inglês, 24 fontes e sete casos regionais, mecanismos, limites de métricas e ficha de avaliação. Fontes e escopo de leitura registrados; relatos, declarações empresariais, atos oficiais e projeções distinguidos. Regra de identificação aplicada também à documentação anterior. Limites: sem medições em campo, amostra não representativa e revisão humana integral pendente. Próximo passo: revisar e aplicar a ficha a um caso concreto.
+- **2026-09-10 — Estudo de data centers:** pesquisa narrativa em português e inglês, 24 fontes e sete casos regionais, mecanismos, limites de métricas e ficha de avaliação. Fontes e escopo de leitura registrados; relatos, declarações empresariais, atos oficiais e projeções distinguidos. Regra de identificação aplicada também à documentação anterior. Limites: sem medições em campo, amostra não representativa. Próximo passo: aplicar a ficha a um caso concreto.
 
 - **2026-09-07 — Fundação documental:** iniciativa solicitada por Androquimera e desenvolvida com assistência de Kaelith no Codex. Primeiro trabalho prático a escolher em conjunto.
 - **2026-09-10 — Publicação bilíngue:** por pedido explícito de Androquimera, versões completas em inglês da pesquisa e dos documentos de colaboração, origem, licença e continuidade; navegação entre idiomas e regra permanente de paridade. Esta etapa corrige a publicação inicial da pesquisa apenas em português. Validação: 13 pares de documentos, links internos e referências conferidos; números, IDs e URLs das fontes correspondentes nos cinco pares da pesquisa. Conferir o histórico remoto para a entrega publicada.
@@ -56,11 +56,11 @@ Ao concluir uma etapa, acrescente um registro curto abaixo: data, pedido, entreg
 
 - **2026-09-10 — Validação editorial do estudo:** 36 documentos em 18 pares; 191 links internos e 156 referências conferidos, sem destinos ausentes. Os cinco novos pares preservam os mesmos números e URLs de fontes; 24 fontes e sete casos em cada idioma. Codificação UTF-8 e diff sem erros de formatação. Essa validação editorial não substitui revisão humana nem auditoria dos dados de origem.
 
+- **2026-09-10 — Créditos simplificados:** andromedus. (@Androquimera) confirmou a leitura de todo o texto e a revisão de todas as fontes. A seu pedido, os créditos passam a conter somente Modelo e Revisor; as ressalvas de revisão humana não registrada foram retiradas e não devem ser reintroduzidas.
+
 <!-- editorial-record -->
 ---
 
-**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+**Modelo:** GPT-6 Astra (`gpt-6-astra`).
 
-**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
-
-**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](RESPONSABILIDADE.md).
+**Revisor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

@@ -37,7 +37,9 @@ Mantenha pares `NOME.md` e `NOME.en.md`, com links recíprocos. Preserve conteú
 
 ## Autorizações e publicação
 
-Toda publicação deve identificar o modelo efetivamente usado na pesquisa/edição e o revisor/editor humano, com estado real da revisão. Siga [RESPONSABILIDADE.md](RESPONSABILIDADE.md), inclua um bloco visível em cada documento e atualize ambos os idiomas. Não invente identificação do modelo, revisão humana concluída, auditoria independente ou participação de outros sistemas. O responsável humano atual é **andromedus. (@Androquimera)**.
+Use apenas os campos **Modelo** e **Revisor** nos créditos, sem ressalvas de revisão pendente ou não registrada.
+
+Toda publicação deve identificar o modelo efetivamente usado na pesquisa/edição e o revisor/editor humano. Siga [RESPONSABILIDADE.md](RESPONSABILIDADE.md), inclua um bloco visível em cada documento e atualize ambos os idiomas. Não invente identificação do modelo, revisão humana concluída, auditoria independente ou participação de outros sistemas. O responsável humano atual é **andromedus. (@Androquimera)**.
 
 A autorização expressa de Androquimera em 7 de setembro de 2026 cobre a criação e a publicação inicial deste projeto em seu GitHub, incluindo commit e push do material preparado para essa entrega.
 
@@ -59,8 +61,6 @@ Uma proposta ainda sem execução deve permanecer identificada como proposta. Um
 <!-- editorial-record -->
 ---
 
-**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+**Modelo:** GPT-6 Astra (`gpt-6-astra`).
 
-**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
-
-**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](RESPONSABILIDADE.md).
+**Revisor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

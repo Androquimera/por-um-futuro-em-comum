@@ -69,8 +69,6 @@ Este registro separa observação ou estimativa, atribuição, projeção, defin
 <!-- editorial-record -->
 ---
 
-**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+**Modelo:** GPT-6 Astra (`gpt-6-astra`).
 
-**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
-
-**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](../RESPONSABILIDADE.md).
+**Revisor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

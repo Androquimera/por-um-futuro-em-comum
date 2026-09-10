@@ -37,7 +37,9 @@ Maintain pairs named `NAME.md` and `NAME.en.md`, with reciprocal links. Preserve
 
 ## Authorization and publication
 
-Every publication must identify the model actually used in research/editing and the human reviewer/editor, with the actual review status. Follow [RESPONSABILIDADE.en.md](RESPONSABILIDADE.en.md), include a visible block in every document, and update both languages. Do not invent a model identity, completed human review, independent audit, or participation by other systems. The current human lead is **andromedus. (@Androquimera)**.
+Use only the **Model** and **Reviewer** credit fields, without caveats about pending or unrecorded review.
+
+Every publication must identify the model actually used in research/editing and the human reviewer/editor. Follow [RESPONSABILIDADE.en.md](RESPONSABILIDADE.en.md), include a visible block in every document, and update both languages. Do not invent a model identity, completed human review, independent audit, or participation by other systems. The current human lead is **andromedus. (@Androquimera)**.
 
 Androquimera's express authorization on September 7, 2026 covers the creation and initial publication of this project on their GitHub, including committing and pushing the material prepared for that delivery.
 
@@ -59,8 +61,6 @@ A proposal that has not been implemented must remain labeled as a proposal. Publ
 <!-- editorial-record -->
 ---
 
-**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+**Model:** GPT-6 Astra (`gpt-6-astra`).
 
-**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
-
-**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](RESPONSABILIDADE.en.md).
+**Reviewer:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

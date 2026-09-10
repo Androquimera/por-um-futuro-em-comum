@@ -25,7 +25,7 @@ Annual indicators do not need rewriting with every daily news report. A regional
 6. Add or correct the source entry in both versions of FONTES. State whether an abstract, section, table, or full text was read; do not invent a complete review.
 7. Update Portuguese and English in full in the same delivery. Check parity of content, IDs, sources, numbers, dates, units, and caveats, as well as internal links and the diff. Avoid private data and text copied from sources. Do not publish with a missing or outdated version.
 8. Update both versions of CONTINUIDADE with the delivery, verification, limitations, and next step. Publish when authorized by the current task; verify the remote commit after pushing.
-9. Identify the model used, the human reviewer/editor, and the actual review status in each publication, following [RESPONSABILIDADE.en.md](../RESPONSABILIDADE.en.md), always in both languages.
+9. Identify the model used and the reviewer in each publication, following [RESPONSABILIDADE.en.md](../RESPONSABILIDADE.en.md), always in both languages.
 
 ## Rules that prevent false conclusions
 
@@ -55,8 +55,6 @@ On 2026-09-10, publication was completed in English with the same content as the
 <!-- editorial-record -->
 ---
 
-**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+**Model:** GPT-6 Astra (`gpt-6-astra`).
 
-**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
-
-**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](../RESPONSABILIDADE.en.md).
+**Reviewer:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

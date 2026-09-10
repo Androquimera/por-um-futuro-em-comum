@@ -67,15 +67,13 @@ Não atribuímos um “selo verde” nem uma nota única. Uma instalação pode 
 
 Revisar antes de usar um caso para uma nova ação e quando houver novas estatísticas, resposta oficial ou mudança no empreendimento. Atualização é manual; não há monitoramento automático ativado.
 
-Toda alteração deve alcançar português e inglês na mesma entrega, preservando IDs, fontes, números e ressalvas. Identificar o modelo efetivamente usado, o revisor/editor humano e o estado real da revisão. Registrar mudanças em CONTINUIDADE e verificar o resultado remoto ao publicar.
+Toda alteração deve alcançar português e inglês na mesma entrega, preservando IDs, fontes, números e ressalvas. Identificar o modelo efetivamente usado e o revisor. Registrar mudanças em CONTINUIDADE e verificar o resultado remoto ao publicar.
 
-A conferência por GPT-6 Astra nesta etapa consiste em leitura das fontes indicada no catálogo, confronto de afirmações, síntese e revisão editorial. **Não é auditoria externa nem revisão por pares.** A leitura integral por andromedus. (@Androquimera) ainda não está registrada. O escopo e o pedido foram definidos por ele; o texto permanece aberto à sua revisão.
+A conferência por GPT-6 Astra nesta etapa consiste em leitura das fontes indicada no catálogo, confronto de afirmações, síntese e revisão editorial. **Não é auditoria externa nem revisão por pares.**
 
 <!-- editorial-record -->
 ---
 
-**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+**Modelo:** GPT-6 Astra (`gpt-6-astra`).
 
-**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
-
-**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](../../RESPONSABILIDADE.md).
+**Revisor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

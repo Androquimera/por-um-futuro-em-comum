@@ -117,7 +117,7 @@ As medidas que propomos priorizar são: localizar segundo capacidade e vulnerabi
 
 **A crítica mais forte é verificável:** quem utiliza quais recursos, onde, em que período, com qual benefício e quem assume o risco? Não presumimos inocuidade pela eficiência nem culpa por associação ao setor.
 
-Este estudo reúne 24 fontes e sete casos regionais selecionados. Não é uma amostra representativa do planeta, auditoria de instalações ou revisão sistemática. Não medimos poluição, tarifas, ruído ou água em campo; não confirmamos desfechos administrativos posteriores aos documentos citados. A revisão humana integral está pendente.
+Este estudo reúne 24 fontes e sete casos regionais selecionados. Não é uma amostra representativa do planeta, auditoria de instalações ou revisão sistemática. Não medimos poluição, tarifas, ruído ou água em campo; não confirmamos desfechos administrativos posteriores aos documentos citados.
 
 A próxima contribuição concreta pode aplicar a [ficha de avaliação](METODO.md) ao Pecém: reunir licenças, estudos e dados de operação disponíveis, conferir a resposta às recomendações e registrar lacunas. O estudo atual não declara que essa auditoria já foi realizada.
 
@@ -149,8 +149,6 @@ A próxima contribuição concreta pode aplicar a [ficha de avaliação](METODO.
 <!-- editorial-record -->
 ---
 
-**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+**Modelo:** GPT-6 Astra (`gpt-6-astra`).
 
-**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
-
-**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](../../RESPONSABILIDADE.md).
+**Revisor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
