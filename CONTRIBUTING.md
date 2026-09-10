@@ -35,6 +35,8 @@ Ninguém precisa pagar, trabalhar sem descanso, revelar experiências pessoais o
 
 Contribuições com assistência de IA são bem-vindas. Revise o conteúdo, verifique afirmações relevantes e informe a assistência quando ela for material para entender o trabalho.
 
+Toda publicação identifica modelo, revisor/editor humano e estado da revisão, conforme a [ficha de responsabilidade](RESPONSABILIDADE.md). Informe o modelo que realmente participou e não declare revisão, aprovação ou verificação independente que não ocorreu.
+
 Leia [AGENTS.md](AGENTS.md) ao trabalhar com agentes. Para Claude, há também [CLAUDE.md](CLAUDE.md). Não atribua endosso a pessoas, sistemas ou organizações que não o deram.
 
 ## Revisão e licença
@@ -44,3 +46,12 @@ Androquimera mantém a direção editorial inicial. Alterações podem ser discu
 Ao propor a inclusão de texto de sua autoria, indique que ele pode ser distribuído sob a [CC BY 4.0](LICENSE.md) usada pelo projeto. Identifique material de terceiros e sua licença; só inclua conteúdo que você tenha direito de compartilhar.
 
 As regras de convivência orientam a participação neste repositório. As permissões de reutilização dos textos são as da licença.
+
+<!-- editorial-record -->
+---
+
+**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](RESPONSABILIDADE.md).

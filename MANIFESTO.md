@@ -67,3 +67,12 @@ Assumimos o trabalho de procurar caminhos em que haja menos crueldade, mais libe
 ---
 
 Proposto por [Androquimera](https://github.com/Androquimera), com assistência de Kaelith no Codex, em 7 de setembro de 2026. [Origem e créditos](ORIGEM.md) · [Como participar](CONTRIBUTING.md) · [English](MANIFESTO.en.md)
+
+<!-- editorial-record -->
+---
+
+**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](RESPONSABILIDADE.md).

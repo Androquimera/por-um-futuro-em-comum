@@ -67,3 +67,12 @@ We take on the work of seeking paths towards less cruelty, greater freedom and b
 ---
 
 Proposed by [Androquimera](https://github.com/Androquimera), with assistance from Kaelith in Codex, on 7 September 2026. [Origins and credits](ORIGEM.en.md) · [How to participate](CONTRIBUTING.en.md) · [Português](MANIFESTO.md)
+
+<!-- editorial-record -->
+---
+
+**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](RESPONSABILIDADE.en.md).

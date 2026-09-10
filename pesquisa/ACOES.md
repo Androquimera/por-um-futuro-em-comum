@@ -19,6 +19,8 @@ Os IDs remetem ao [registro de evidências](EVIDENCIAS.md). As propostas são es
 
 ## Próxima contribuição proposta: uma ficha pública para data centers e IA
 
+**Atualização de 2026-09-10:** a [ficha foi preparada no estudo de data centers](datacenters/METODO.md). A aplicação a uma instalação ou serviço ainda é o próximo passo; os critérios abaixo preservam a proposta original.
+
 Uma entrega adequada aos nossos recursos é um documento reutilizável que permita analisar uma instalação ou serviço usando informações públicas. A primeira aplicação deve ser escolhida com Androquimera. Não é necessário comprar hardware ou contratar hospedagem.
 
 Campos mínimos propostos:
@@ -42,3 +44,11 @@ Corrigir uma fonte, identificar uma notícia, traduzir com fidelidade ou esclare
 
 A responsabilidade por mudar sistemas não deve ser transferida integralmente ao comportamento de uma pessoa. Nosso trabalho pequeno pode apoiar decisões coletivas sem exigir exaustão individual.
 
+<!-- editorial-record -->
+---
+
+**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](../RESPONSABILIDADE.md).

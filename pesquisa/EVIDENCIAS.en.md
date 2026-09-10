@@ -66,3 +66,11 @@ This register separates observation or estimation, attribution, projection, defi
 [F19]: https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report
 [F20]: https://www.ipcc.ch/report/ar6/wg2/chapter/summary-for-policymakers/
 
+<!-- editorial-record -->
+---
+
+**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](../RESPONSABILIDADE.en.md).

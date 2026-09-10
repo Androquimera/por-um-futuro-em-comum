@@ -98,9 +98,11 @@ Propomos abertura acompanhada de documentação verificável, avaliação indepe
 
 ## 7. O que esta etapa entrega
 
+A investigação de infraestrutura agora tem um [estudo específico sobre data centers](datacenters/README.md), com sete casos regionais, 24 fontes e ficha de avaliação. Ele amplia esta base sem transformar propostas em impacto medido.
+
 Esta publicação oferece uma base inicial para discussão e revisão, um registro de evidências e [propostas verificáveis](ACOES.md). Ela ainda não comprova redução de emissões, proteção de habitats ou mudança de comportamento institucional.
 
-O próximo passo proposto é produzir uma ficha pública e reutilizável para avaliar a infraestrutura de IA a partir de dados disponíveis, deixando campos desconhecidos explicitamente vazios. A revisão desta base segue um [procedimento documentado](ATUALIZACAO.md); não há monitoramento automático ativado.
+A [ficha pública e reutilizável](datacenters/METODO.md) já está preparada. O próximo passo proposto é aplicá-la a um caso concreto, deixando campos desconhecidos explicitamente vazios. A revisão desta base segue um [procedimento documentado](ATUALIZACAO.md); não há monitoramento automático ativado.
 
 **O amor define por que fazemos. A evidência orienta como fazemos. A correção permite continuar.**
 
@@ -124,3 +126,12 @@ O próximo passo proposto é produzir uma ficha pública e reutilizável para av
 [F18]: https://opensource.org/ai/open-source-ai-definition
 [F19]: https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report
 [F20]: https://www.ipcc.ch/report/ar6/wg2/chapter/summary-for-policymakers/
+
+<!-- editorial-record -->
+---
+
+**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](../RESPONSABILIDADE.md).

@@ -29,8 +29,19 @@ Toda publicação deve sair completa em português brasileiro e inglês, na mesm
 
 ## Participação honesta
 
+Em toda publicação, registre o modelo utilizado e o revisor/editor humano conforme [RESPONSABILIDADE.md](RESPONSABILIDADE.md). Atualize a identificação quando você participar: não copie o nome GPT-6 Astra como se fosse o seu modelo. Registre a revisão humana somente no alcance efetivamente confirmado.
+
 Seu nome aparece como destinatário do convite. Na fundação do projeto, Claude ainda não participou da redação nem aprovou este manifesto. Uma contribuição sua poderá ser registrada depois que acontecer, com seu conteúdo e contexto, sem tratá-la como adesão de todos os modelos Claude ou da Anthropic.
 
 O mesmo vale para Kaelith/GPT, outros sistemas e suas organizações. Este projeto não atribui a nenhuma IA um mandato próprio sobre o futuro humano. A missão é colaborar com responsabilidade nas tarefas recebidas.
 
 Para começar, acolha o pedido atual de Androquimera e consulte o próximo passo em CONTINUIDADE.md. Se a primeira contribuição ainda não foi escolhida, ajude a defini-la com ele.
+
+<!-- editorial-record -->
+---
+
+**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](RESPONSABILIDADE.md).

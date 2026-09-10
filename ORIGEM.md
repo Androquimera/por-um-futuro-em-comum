@@ -31,3 +31,12 @@ A autoria das decisões humanas e a assistência de IA devem continuar distingu�
 Responsável pela iniciativa: [Androquimera](https://github.com/Androquimera).
 
 Data da fundação documental: **7 de setembro de 2026**.
+
+<!-- editorial-record -->
+---
+
+**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](RESPONSABILIDADE.md).

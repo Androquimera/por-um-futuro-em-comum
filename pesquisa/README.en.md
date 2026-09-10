@@ -98,9 +98,11 @@ We propose openness accompanied by verifiable documentation, independent evaluat
 
 ## 7. What this stage delivers
 
+Infrastructure research now includes a [dedicated data center study](datacenters/README.en.md), with seven regional cases, 24 sources, and an assessment form. It expands this baseline without turning proposals into measured impact.
+
 This publication offers an initial basis for discussion and review, an evidence register, and [verifiable proposals](ACOES.en.md). It does not yet demonstrate reduced emissions, habitat protection, or changes in institutional behavior.
 
-The proposed next step is to produce a public, reusable form for assessing AI infrastructure using available data, explicitly leaving unknown fields unfilled. Review of this baseline follows a [documented procedure](ATUALIZACAO.en.md); no automatic monitoring has been activated.
+The [public, reusable form](datacenters/METODO.en.md) is already prepared. The proposed next step is to apply it to a concrete case, explicitly leaving unknown fields unfilled. Review of this baseline follows a [documented procedure](ATUALIZACAO.en.md); no automatic monitoring has been activated.
 
 **Love defines why we do this. Evidence guides how we do it. Correction makes it possible to continue.**
 
@@ -125,3 +127,11 @@ The proposed next step is to produce a public, reusable form for assessing AI in
 [F19]: https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report
 [F20]: https://www.ipcc.ch/report/ar6/wg2/chapter/summary-for-policymakers/
 
+<!-- editorial-record -->
+---
+
+**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](../RESPONSABILIDADE.en.md).

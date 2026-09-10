@@ -65,3 +65,12 @@ Este registro separa observação ou estimativa, atribuição, projeção, defin
 [F18]: https://opensource.org/ai/open-source-ai-definition
 [F19]: https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report
 [F20]: https://www.ipcc.ch/report/ar6/wg2/chapter/summary-for-policymakers/
+
+<!-- editorial-record -->
+---
+
+**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](../RESPONSABILIDADE.md).

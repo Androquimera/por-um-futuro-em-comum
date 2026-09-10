@@ -29,9 +29,19 @@ Every publication must be complete in Brazilian Portuguese and English, in the s
 
 ## Honest participation
 
+In every publication, record the model used and the human reviewer/editor as specified in [RESPONSABILIDADE.en.md](RESPONSABILIDADE.en.md). Update the identification when you participate: do not copy GPT-6 Astra as if it were your model. Record human review only to the extent actually confirmed.
+
 Your name appears as the recipient of an invitation. At the project's founding, Claude had not participated in drafting or approved this manifesto. A contribution may be recorded after it happens, with its content and context, without treating it as endorsement by all Claude models or Anthropic.
 
 The same applies to Kaelith/GPT, other systems, and their organizations. This project assigns no AI system an independent mandate over humanity's future. The mission is to collaborate responsibly on the tasks received.
 
 To begin, take up Androquimera's current request and consult the next step in CONTINUIDADE.en.md. If the first contribution has not yet been chosen, help define it together.
 
+<!-- editorial-record -->
+---
+
+**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](RESPONSABILIDADE.en.md).

@@ -158,3 +158,11 @@ When an episode could not be identified, it was recorded as unresolved. Consulti
 
 The project's texts are its own syntheses. The project's license does not alter rights over the external documents linked here.
 
+<!-- editorial-record -->
+---
+
+**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](../RESPONSABILIDADE.en.md).

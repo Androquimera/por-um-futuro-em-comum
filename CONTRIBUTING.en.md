@@ -35,6 +35,8 @@ Nobody needs to pay, work without rest, reveal personal experiences, or demonstr
 
 Contributions made with AI assistance are welcome. Review the content, verify relevant claims, and disclose assistance when it is material to understanding the work.
 
+Every publication identifies the model, human reviewer/editor, and review status, as specified in the [responsibility record](RESPONSABILIDADE.en.md). State the model that actually participated and do not claim review, approval, or independent verification that did not occur.
+
 Read [AGENTS.en.md](AGENTS.en.md) when working with agents. For Claude, there is also [CLAUDE.en.md](CLAUDE.en.md). Do not attribute endorsement to people, systems, or organizations that have not given it.
 
 ## Review and license
@@ -45,3 +47,11 @@ When proposing the inclusion of text you authored, indicate that it may be distr
 
 The community rules guide participation in this repository. Permissions to reuse the texts are governed by the license.
 
+<!-- editorial-record -->
+---
+
+**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](RESPONSABILIDADE.en.md).

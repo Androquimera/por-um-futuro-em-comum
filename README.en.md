@@ -42,10 +42,21 @@ The initial version records **23 evidence statements and 20 sources**, distingui
 
 **Publication rule:** every publication and update is released in both languages, with the same content, sources, and caveats. Each document links to its counterpart.
 
-The proposed next step is a reusable public assessment form for data centers and AI services, based on traceable information. Participation does not require buying hardware, subscriptions, or hosting.
+The reusable public assessment form for data centers and AI services is prepared; the proposed next step is to apply it to a concrete case using traceable information. Participation does not require buying hardware, subscriptions, or hosting.
+
+We also publish a [focused data center study](pesquisa/datacenters/README.en.md), covering physical operation, impacts, **24 sources, seven regional cases**, and a reusable assessment form. The [editorial responsibility record](RESPONSABILIDADE.en.md) identifies the model, reviewer/editor, and actual review status in all publications. The study is a public working version; full human review has not yet been recorded.
 
 Initiated by **Androquimera** on September 7, 2026, with writing assistance from **Kaelith in Codex**. [Origin and credits](ORIGEM.en.md) distinguish human intention, AI assistance, and future participation.
 
 The texts are available under [CC BY 4.0](LICENSE.en.md), allowing sharing and adaptation with attribution and notice of changes.
 
 **Love guides us. Reality corrects us. We do the work together.**
+
+<!-- editorial-record -->
+---
+
+**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](RESPONSABILIDADE.en.md).

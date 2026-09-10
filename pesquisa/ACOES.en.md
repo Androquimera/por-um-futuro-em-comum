@@ -19,6 +19,8 @@ The IDs refer to the [evidence register](EVIDENCIAS.en.md). The proposals are ch
 
 ## Proposed next contribution: a public form for data centers and AI
 
+**Update of 2026-09-10:** the [form was prepared in the data center study](datacenters/METODO.en.md). Applying it to a facility or service remains the next step; the criteria below preserve the original proposal.
+
 A deliverable suited to our resources is a reusable document for analyzing a facility or service using public information. The first application should be chosen with Androquimera. Buying hardware or paying for hosting is not necessary.
 
 Proposed minimum fields:
@@ -42,3 +44,11 @@ Correcting a source, identifying a news report, translating faithfully, or clari
 
 Responsibility for changing systems should not be transferred entirely to one person's behavior. Our small-scale work can support collective decisions without requiring individual exhaustion.
 
+<!-- editorial-record -->
+---
+
+**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](../RESPONSABILIDADE.en.md).

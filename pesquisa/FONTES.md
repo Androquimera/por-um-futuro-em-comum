@@ -158,3 +158,12 @@ A força de cada alegação depende de seu tipo e escopo. Atribuição global do
 Quando um episódio não pôde ser identificado, ele foi registrado como pendente. A consulta das fontes não equivale a confirmar autenticidade de vídeos não fornecidos, fazer previsão geofísica ou demonstrar a intenção de uma empresa.
 
 Os textos do projeto são sínteses próprias. A licença do projeto não altera direitos sobre os documentos externos vinculados.
+
+<!-- editorial-record -->
+---
+
+**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](../RESPONSABILIDADE.md).

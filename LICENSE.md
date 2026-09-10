@@ -16,3 +16,12 @@ O texto jurídico vinculado estabelece os termos; esta apresentação não o sub
 “Por um Futuro em Comum”, iniciativa de Androquimera, com assistência de redação de Kaelith no Codex, 2026. CC BY 4.0. Indique as alterações realizadas e inclua o endereço do projeto.
 
 A atribuição não deve sugerir aprovação de sua adaptação por Androquimera, OpenAI, Anthropic ou outros participantes.
+
+<!-- editorial-record -->
+---
+
+**Modelo desta edição / conferência assistida por IA:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Revisor/editor humano responsável:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Estado:** revisão humana integral desta edição ainda não registrada. [Escopo, data e responsabilidades](RESPONSABILIDADE.md).

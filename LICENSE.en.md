@@ -17,3 +17,11 @@ The linked legal code establishes the terms; this introduction does not replace 
 
 Attribution must not suggest that Androquimera, OpenAI, Anthropic, or other participants approve your adaptation.
 
+<!-- editorial-record -->
+---
+
+**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](RESPONSABILIDADE.en.md).

@@ -37,6 +37,8 @@ Maintain pairs named `NAME.md` and `NAME.en.md`, with reciprocal links. Preserve
 
 ## Authorization and publication
 
+Every publication must identify the model actually used in research/editing and the human reviewer/editor, with the actual review status. Follow [RESPONSABILIDADE.en.md](RESPONSABILIDADE.en.md), include a visible block in every document, and update both languages. Do not invent a model identity, completed human review, independent audit, or participation by other systems. The current human lead is **andromedus. (@Androquimera)**.
+
 Androquimera's express authorization on September 7, 2026 covers the creation and initial publication of this project on their GitHub, including committing and pushing the material prepared for that delivery.
 
 For later work, consider the request and authorizations in the current session. Reuse authorization that already covers an action without repeatedly asking for confirmation. The manifesto alone does not authorize access to other accounts, contacting people, expenses, changes to other projects, or recurring execution.
@@ -54,3 +56,11 @@ Deliver the requested artifact, verify the actual result, and briefly report:
 
 A proposal that has not been implemented must remain labeled as a proposal. Publication is complete only after verifying the remote state. The existence of a text or program does not prove social or environmental impact.
 
+<!-- editorial-record -->
+---
+
+**Model for this edition / AI-assisted checking:** GPT-6 Astra (`gpt-6-astra`, `high`).
+
+**Responsible human reviewer/editor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+
+**Status:** full human review of this edition has not yet been recorded. [Scope, date, and responsibilities](RESPONSABILIDADE.en.md).
