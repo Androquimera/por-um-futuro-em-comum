@@ -98,7 +98,7 @@ We propose openness accompanied by verifiable documentation, independent evaluat
 
 ## 7. What this stage delivers
 
-Infrastructure research now includes a [dedicated data center study](datacenters/README.en.md), with seven regional cases, 24 sources, and an assessment form. It expands this baseline without turning proposals into measured impact.
+Infrastructure research now includes a [dedicated data center study](datacenters/README.en.md), with ten regional cases, 36 sources, and an assessment form. It expands this baseline without turning proposals into measured impact.
 
 This publication offers an initial basis for discussion and review, an evidence register, and [verifiable proposals](ACOES.en.md). It does not yet demonstrate reduced emissions, habitat protection, or changes in institutional behavior.
 

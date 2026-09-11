@@ -2,15 +2,19 @@
 
 **Português** · [English](README.en.md)
 
-**Estudo 0.1 · Corte da pesquisa: 2026-09-10 · Versão pública de trabalho**
+**Estudo 0.2 · Corte da pesquisa: 2026-09-10 · Versão pública de trabalho**
 
-[Casos regionais](CASOS.md) · [24 fontes](FONTES.md) · [Método e ficha de avaliação](METODO.md) · [Responsabilidade editorial](../../RESPONSABILIDADE.md) · [Pesquisa geral](../README.md)
+[Casos regionais](CASOS.md) · [36 fontes](FONTES.md) · [Método e ficha de avaliação](METODO.md) · [Responsabilidade editorial](../../RESPONSABILIDADE.md) · [Pesquisa geral](../README.md)
 
 ## Conclusão principal
 
 Data centers são infraestrutura física para serviços digitais. Seus efeitos dependem da escala, da utilização, do lugar e das decisões de construção e operação. **Não existe justificativa técnica para tratá-los como imateriais; também não existe base para atribuir o mesmo dano a toda instalação.**
 
 A evidência reunida sustenta uma cobrança forte: demonstrar benefício, publicar impactos absolutos, avaliar efeitos cumulativos e proteger comunidades antes da expansão. Eficiência, contratos renováveis e investimento anunciado são informações relevantes, mas insuficientes para provar sustentabilidade. Essa conclusão é a avaliação do projeto a partir das fontes abaixo; não é uma certificação de qualquer operador.
+
+## Comunidades e dados consultáveis
+
+A versão 0.2 corrige um desequilíbrio institucional na seleção de fontes. [Comunidades](COMUNIDADES.md) incorpora documentos comunitários, ONGs, moradores e jornalismo local. [Dados consultáveis](DADOS.md) preserva a série pública de água e confere agregados do monitoramento comunitário. Declarações governamentais e empresariais são examinadas diante desses registros; não recebem prioridade automática.
 
 ## 1. O que há dentro de um data center
 
@@ -117,7 +121,7 @@ As medidas que propomos priorizar são: localizar segundo capacidade e vulnerabi
 
 **A crítica mais forte é verificável:** quem utiliza quais recursos, onde, em que período, com qual benefício e quem assume o risco? Não presumimos inocuidade pela eficiência nem culpa por associação ao setor.
 
-Este estudo reúne 24 fontes e sete casos regionais selecionados. Não é uma amostra representativa do planeta, auditoria de instalações ou revisão sistemática. Não medimos poluição, tarifas, ruído ou água em campo; não confirmamos desfechos administrativos posteriores aos documentos citados.
+Este estudo reúne 36 fontes e dez casos regionais selecionados. Não é uma amostra representativa do planeta, auditoria de instalações ou revisão sistemática. Não medimos poluição, tarifas, ruído ou água em campo; não confirmamos desfechos administrativos posteriores aos documentos citados.
 
 A próxima contribuição concreta pode aplicar a [ficha de avaliação](METODO.md) ao Pecém: reunir licenças, estudos e dados de operação disponíveis, conferir a resposta às recomendações e registrar lacunas. O estudo atual não declara que essa auditoria já foi realizada.
 

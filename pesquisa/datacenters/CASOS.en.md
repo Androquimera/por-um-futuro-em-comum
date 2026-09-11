@@ -1,8 +1,8 @@
-# Seven regional cases: evidence, conflict, and response
+# Ten regional cases: evidence, conflict, and response
 
 [Português](CASOS.md) · **English**
 
-**2026-09-10 · Version 0.1 · Selected cases, not a representative sample**
+**2026-09-10 · Version 0.2 · Selected cases, not a representative sample**
 
 [Main study](README.en.md) · [Sources](FONTES.en.md) · [Method](METODO.en.md)
 
@@ -33,6 +33,8 @@ Impartiality means applying the same standard of proof to companies, governments
 **Uncompromising question:** does the hydrogeological model use the worst plausible period of availability, or an average that hides drought?
 
 ## C04 — Pecém, Ceará, Brazil: energy benefits do not replace participation
+
+**Community evidence.** The Anacé protocol and residents' mobilization are now included in [Communities](COMUNIDADES.en.md), before assessing institutional responses.
 
 **Documented act.** MPF/DPU issued a recommendation in May 2026 identifying weaknesses in licensing, calling for consultation with the Anacé people and other traditional communities and assessment of cumulative impacts. This is an extrajudicial act, not a judgment of liability or demonstration of operational harm already inflicted. [D14][D14]
 
@@ -65,6 +67,18 @@ Impartiality means applying the same standard of proof to companies, governments
 **Interpretation.** This illustrates possible integration between digital infrastructure and heating. To compare alternatives, we need heat actually delivered, pump energy, losses, seasonality, and the fuel displaced. The number of homes does not demonstrate climate neutrality of the entire facility.
 
 **Uncompromising question:** does the system reduce emissions and costs relative to the alternative that would actually exist there, and who receives the savings?
+
+## C08 — Memphis / Southaven, United States: noise and cumulative exposure
+
+Residents' accounts, community monitoring, and the company's response are examined in [Communities](COMUNIDADES.en.md). The [data register](DADOS.en.md) distinguishes published monitoring aggregates from source attribution. On-site generation means the investigation must follow electricity beyond the data center building.
+
+## C09 — The Dalles, United States: water and access to information
+
+The [community investigation](COMUNIDADES.en.md) follows residents' questions and local reporting to council records. The [public water series](DADOS.en.md) preserves the numeric source and calculations, including a discrepancy between reporting and data. Resource pressure and transparency are separate questions that both require answers.
+
+## C10 — Querétaro, Mexico: expansion amid water insecurity
+
+The [community investigation](COMUNIDADES.en.md) includes residents interviewed by Pública/CLIP, their water-access difficulties, and expansion decisions. Pre-existing scarcity requires scrutiny of new demand; it does not establish each facility's share in shortages.
 
 ## What these cases support
 

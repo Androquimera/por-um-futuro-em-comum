@@ -2,7 +2,7 @@
 
 [Português](METODO.md) · **English**
 
-**Version 0.1 · 2026-09-10**
+**Version 0.2 · 2026-09-10**
 
 [Study](README.en.md) · [Cases](CASOS.en.md) · [Sources](FONTES.en.md) · [Contributors](../../RESPONSABILIDADE.en.md)
 
@@ -10,15 +10,21 @@
 
 How do data centers currently use resources and affect people, and which differences in design, location, and governance change those effects?
 
-The study brings together 24 sources and seven regional cases to explain mechanisms and contrast evidence. It is a question-led narrative review, not a systematic review or an estimate of the global prevalence of harm. The scope includes operation, construction, electricity, water, equipment, neighbors, and institutions.
+The study brings together 36 sources and ten regional cases to explain mechanisms and contrast evidence. It is a question-led narrative review, not a systematic review or an estimate of the global prevalence of harm. The scope includes operation, construction, electricity, water, equipment, neighbors, and institutions.
 
-## How sources were selected
+## How sources are selected
 
-Searches in Portuguese and English combined data centers with energy, water, cooling, noise, communities, and regional names. Discovery used Exa/Agent Reach and web search; reading prioritized documents from the responsible institutions and original publications. Reporting was used to locate conflicts, statements, and subsequent developments.
+Version 0.2 corrects the initial selection's institutional imbalance. Collection starts with affected people, community organizations, NGOs, and local investigations, alongside documents and technical data. Searches used Portuguese, English, named locations, community names, noise, water, complaints, and information access, through Exa/Agent Reach and web search.
 
-We prioritized statistics with defined boundaries; studies with methods; audit documents and official decisions; identified reporting and responses from the parties. We included favorable and unfavorable findings. A Reuters republication is not a second independent investigation of the same story.
+There is no automatic credibility ranking by domain or institutional type. For each claim, assess proximity to the fact, method, traceability, funding, conflicts of interest, and limitations. A community protocol is a primary source on the community's chosen process; a resident is a primary source on lived experience. Official records can document both public action and interests aligned with development.
 
-We excluded unsupported causal inferences, universal per-prompt comparisons, forecasts treated as observations, drafts presented as final standards, and blocked sources whose relevant contents could not be checked. The catalog records when reading was limited to an abstract, section, or institutional communication.
+Minimum collection for a local case: seek affected people's accounts or documents, local or NGO investigation, measurements or original records when available, and the response of the party concerned. Record gaps rather than silently replacing missing community evidence with a press release. Reproduce published complaints with attribution; do not claim interviews that were not conducted or disclose personal contact details.
+
+An NGO's position does not invalidate its measurements. A permit does not establish absence of harm. Apply proportionate scrutiny to corporate assurances as well as allegations. Institutional denial does not cancel a documented complaint. We require no equal word quota for incompatible claims; conclusions follow the available evidence.
+
+Separate a measurement from its interpretation and check the applicable averaging period. Do not treat a report's aggregates as raw sensor data. Publish source, unit, period, transformations, and access gaps in [DADOS](DADOS.en.md). Preserve original data when obtained and label what remains unavailable.
+
+A reproduced story, its underlying dataset, and an NGO report citing it are not independent confirmations. [Sources](FONTES.en.md) records provenance and reading scope. Selection excludes unsupported causal claims and content that could not be checked. The methodological correction is explained in [Communities](COMUNIDADES.en.md).
 
 ## Classifying each claim
 

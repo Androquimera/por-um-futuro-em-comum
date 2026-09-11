@@ -2,7 +2,7 @@
 
 **Português** · [English](METODO.en.md)
 
-**Versão 0.1 · 2026-09-10**
+**Versão 0.2 · 2026-09-10**
 
 [Estudo](README.md) · [Casos](CASOS.md) · [Fontes](FONTES.md) · [Responsáveis](../../RESPONSABILIDADE.md)
 
@@ -10,15 +10,21 @@
 
 Como data centers atualmente utilizam recursos e afetam pessoas, e quais diferenças de projeto, localização e governança alteram esses efeitos?
 
-O estudo reúne 24 fontes e sete casos regionais para explicar mecanismos e contrastar evidências. É uma revisão narrativa orientada por perguntas, não uma revisão sistemática nem uma estimativa da prevalência mundial de danos. O recorte inclui operação, construção, eletricidade, água, equipamentos, vizinhança e instituições.
+O estudo reúne 36 fontes e dez casos regionais para explicar mecanismos e contrastar evidências. É uma revisão narrativa orientada por perguntas, não uma revisão sistemática nem uma estimativa da prevalência mundial de danos. O recorte inclui operação, construção, eletricidade, água, equipamentos, vizinhança e instituições.
 
-## Como as fontes foram escolhidas
+## Como as fontes são escolhidas
 
-Buscas em português e inglês combinaram data centers com energia, água, resfriamento, ruído, comunidades e nomes das regiões. A descoberta usou Exa/Agent Reach e busca web; a leitura priorizou documentos das instituições responsáveis e publicações originais. Reportagens foram utilizadas para localizar conflitos, declarações e desdobramentos.
+A versão 0.2 corrige o desequilíbrio institucional da seleção inicial. A coleta começa por pessoas afetadas, organizações comunitárias, ONGs e investigações locais, junto de documentos e dados técnicos. As buscas usaram português, inglês, localidades, nomes das comunidades, ruído, água, reclamações e acesso à informação, por Exa/Agent Reach e busca web.
 
-Priorizamos: dados estatísticos com fronteira definida; estudos com método; documentos de auditoria e decisões oficiais; reportagens identificadas e respostas das partes. Incluímos resultados favoráveis e desfavoráveis. Uma reprodução da Reuters não é uma segunda investigação independente da mesma notícia.
+Não há hierarquia automática de credibilidade por domínio ou tipo de instituição. Para cada afirmação, avaliar proximidade com o fato, método, rastreabilidade, financiamento, conflitos de interesse e limites. Um protocolo comunitário é fonte primária sobre o processo escolhido pelo povo; um morador é fonte primária sobre sua experiência. Registros oficiais podem documentar tanto a atuação pública quanto interesses alinhados ao empreendimento.
 
-Excluímos inferências causais sem apoio, comparações universais por prompt, previsões tratadas como observações, rascunhos apresentados como normas finais e fontes bloqueadas cujo conteúdo relevante não pôde ser conferido. O catálogo registra quando a consulta se limitou a resumo, seção ou comunicação institucional.
+Coleta mínima para um caso local: procurar relatos ou documentos dos afetados, investigação local ou de ONG, medições ou registros originais disponíveis e resposta de quem é apontado. Registrar lacunas, sem substituir silenciosamente a evidência comunitária ausente por assessoria de imprensa. Reproduzir denúncias publicadas com atribuição; não alegar entrevistas que não realizamos nem divulgar contatos pessoais.
+
+A posição de uma ONG não invalida suas medições. Uma licença não demonstra ausência de dano. Aplicar cobrança proporcional tanto a garantias empresariais quanto a acusações. Uma negativa institucional não cancela uma reclamação documentada. Não exigimos cotas iguais de palavras para afirmações incompatíveis; as conclusões seguem a evidência disponível.
+
+Separar uma medição de sua interpretação e conferir a janela temporal aplicável. Não tratar agregados de um relatório como dados brutos dos sensores. Publicar fonte, unidade, período, transformações e lacunas de acesso em [DADOS](DADOS.md). Preservar os dados originais obtidos e identificar o que continua indisponível.
+
+Uma notícia reproduzida, sua base de dados e um relatório de ONG que a cita não são confirmações independentes. [Fontes](FONTES.md) registra origem e alcance de leitura. A seleção exclui inferências causais sem apoio e conteúdo que não pôde ser conferido. A correção metodológica está explicada em [Comunidades](COMUNIDADES.md).
 
 ## Classificação de cada afirmação
 

@@ -32,7 +32,7 @@ Androquimera chose to investigate the climate and ecological crisis, irreversibl
 
 Version 0.1 brings together a synthesis, 23 evidence statements, 20 sources, proposed actions, and a manual update procedure. Specific reports about blue ice in Nepal and an eruption remain unidentified. The baseline distinguishes crossed boundaries from tipping points and from a prediction of global uninhabitability.
 
-The [data center study](pesquisa/datacenters/README.en.md) expands this baseline with 24 sources, seven regional cases, and an [assessment form already prepared](pesquisa/datacenters/METODO.en.md). **Proposed next step:** application of the form to a case such as Pecém, collecting documents and data without inventing measurements.
+The [data center study](pesquisa/datacenters/README.en.md) expands this baseline with 36 sources, ten regional cases, and an [assessment form already prepared](pesquisa/datacenters/METODO.en.md). **Proposed next step:** application of the form to a case such as Pecém, collecting documents and data without inventing measurements.
 
 The monthly editorial review is proposed for October 10, 2026. No automation or recurring execution has been activated. No paid subscription, server, or purchase is required to participate.
 
@@ -57,6 +57,12 @@ At the end of a stage, add a short record below: date, request, delivery, verifi
 - **2026-09-10 — Study editorial validation:** 36 documents in 18 pairs; 191 internal links and 156 references checked, with no missing targets. The five new pairs preserve the same numbers and source URLs; 24 sources and seven cases in each language. UTF-8 encoding and diff free of formatting errors. This editorial validation does not replace human review or an audit of the source data.
 
 - **2026-09-10 — Simplified credits:** andromedus. (@Androquimera) confirmed reading the entire text and reviewing all sources. At his request, credits now contain only Model and Reviewer; caveats about unrecorded human review were removed and must not be reintroduced.
+
+
+- **2026-09-10 — Community evidence, version 0.2:** at Androquimera's request, corrected institutional selection bias; added 12 sources and three cases, reaching 36 sources and ten cases. Community documents, NGOs and local reporting now inform the method. Published the OPB CSV source record, reproduced water calculations and monitoring aggregates, and distinguished annual standards from hourly comparisons. Original sensor series remain unavailable; no new interviews. Credits remain Model and Reviewer only.
+
+
+- **2026-09-10 — Version 0.2 validation:** 40 documents in 20 language pairs, 207 internal links and 194 resolved references. Six data-center document pairs checked for number and source-URL parity. The original CSV hash and all 13 annual share calculations were verified. Published monitoring percentages were recalculated; the original hourly series was not reproduced.
 
 <!-- editorial-record -->
 ---

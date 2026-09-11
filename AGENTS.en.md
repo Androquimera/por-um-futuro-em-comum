@@ -58,6 +58,8 @@ Deliver the requested artifact, verify the actual result, and briefly report:
 
 A proposal that has not been implemented must remain labeled as a proposal. Publication is complete only after verifying the remote state. The existence of a text or program does not prove social or environmental impact.
 
+When researching local impacts, seek affected communities, NGOs, local journalism, and original records. Do not privilege government or company narratives by default. Assess each claim by its evidence, document funding and information gaps, and preserve equivalent treatment in both languages.
+
 <!-- editorial-record -->
 ---
 

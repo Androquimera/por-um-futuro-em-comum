@@ -1,0 +1,10 @@
+{
+  "fonte_source": "https://datawrapper.dwcdn.net/BMayV/2/dataset.csv",
+  "consultado_em_accessed_on": "2026-09-10",
+  "sha256_bytes_originais_original_bytes_sha256": "76531ea6b1b9d1b3620abe6d126d24fc1ceacb0aef42fdc2dfa084c85a6bb75f",
+  "descricao_description": {
+    "pt": "Conteúdo textual original do CSV público do gráfico OPB/Datawrapper, preservado sem alteração. Dados municipais agregados, não leituras individuais de hidrômetros.",
+    "en": "Original text of the public OPB/Datawrapper chart CSV, preserved unchanged. Aggregated municipal data, not individual meter readings."
+  },
+  "csv_original": "Calendar Year,Total water use,Google's water use,\r\n2012,967752000,104337000,0.1078137787\r\n2013,965664000,108884000,0.1127555754\r\n2014,1012212000,132345000,0.1307483017\r\n2015,1045056000,148254930,0.1418631442\r\n2016,1073604000,113051140,0.105300595\r\n2017,1102304000,124213000,0.1126848855\r\n2018,1093469000,150658660,0.1377804583\r\n2019,1003521000,233325170,0.2325065146\r\n2020,1128285660,279915070,0.2480888306\r\n2021,1232269290,355149730,0.2882078884\r\n2022,1187293000,352949820,0.2972727204\r\n2023,1238560470,383948170,0.3099954982\r\n2024,1335854130,434428540,0.3252065703"
+}

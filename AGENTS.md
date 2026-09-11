@@ -58,6 +58,8 @@ Entregue o artefato solicitado, verifique o resultado real e informe de forma br
 
 Uma proposta ainda sem execução deve permanecer identificada como proposta. Uma publicação só está concluída após verificar o estado remoto. A existência de um texto ou programa não prova impacto social ou ambiental.
 
+Ao pesquisar impactos locais, procurar comunidades afetadas, ONGs, jornalismo local e registros originais. Não privilegiar por padrão narrativas governamentais ou empresariais. Avaliar cada afirmação por sua evidência, documentar financiamento e lacunas de informação e preservar tratamento equivalente nos dois idiomas.
+
 <!-- editorial-record -->
 ---
 

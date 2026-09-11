@@ -2,15 +2,19 @@
 
 [Português](README.md) · **English**
 
-**Study 0.1 · Research cutoff: 2026-09-10 · Public working version**
+**Study 0.2 · Research cutoff: 2026-09-10 · Public working version**
 
-[Regional cases](CASOS.en.md) · [24 sources](FONTES.en.md) · [Method and assessment form](METODO.en.md) · [Editorial responsibility](../../RESPONSABILIDADE.en.md) · [General research](../README.en.md)
+[Regional cases](CASOS.en.md) · [36 sources](FONTES.en.md) · [Method and assessment form](METODO.en.md) · [Editorial responsibility](../../RESPONSABILIDADE.en.md) · [General research](../README.en.md)
 
 ## Main conclusion
 
 Data centers are physical infrastructure for digital services. Their effects depend on scale, utilization, location, and construction and operating decisions. **There is no technical justification for treating them as immaterial; nor is there evidence for attributing the same harm to every facility.**
 
 The evidence gathered supports demanding demonstrated benefits, disclosure of absolute impacts, assessment of cumulative effects, and protection of communities before expansion. Efficiency, renewable contracts, and announced investment are relevant but insufficient to prove sustainability. This conclusion is the project's assessment of the sources below, not certification of any operator.
+
+## Communities and accessible data
+
+Version 0.2 corrects an institutional imbalance in source selection. [Communities](COMUNIDADES.en.md) incorporates community-authored documents, NGOs, residents, and local reporting. [Accessible data](DADOS.en.md) preserves the public water series and checks community monitoring aggregates. Government and company statements are assessed against these records; they do not receive automatic priority.
 
 ## 1. What is inside a data center
 
@@ -117,7 +121,7 @@ The measures we propose prioritizing are: choosing locations based on actual cap
 
 **The strongest criticism is verifiable:** who uses which resources, where, during what period, with what benefit, and who bears the risk? We presume neither harmlessness from efficiency nor guilt by association with the sector.
 
-This study brings together 24 sources and seven selected regional cases. It is not a representative global sample, a facility audit, or a systematic review. We did not measure pollution, tariffs, noise, or water in the field; we did not confirm administrative outcomes subsequent to the cited documents.
+This study brings together 36 sources and seven selected regional cases. It is not a representative global sample, a facility audit, or a systematic review. We did not measure pollution, tariffs, noise, or water in the field; we did not confirm administrative outcomes subsequent to the cited documents.
 
 The next concrete contribution could apply the [assessment form](METODO.en.md) to Pecém: collect available permits, studies, and operating data, check responses to the recommendations, and record gaps. The current study does not claim that this audit has already been performed.
 

@@ -1,8 +1,8 @@
-# Sete casos regionais: evidência, conflito e resposta
+# Dez casos regionais: evidência, conflito e resposta
 
 **Português** · [English](CASOS.en.md)
 
-**2026-09-10 · Versão 0.1 · Casos selecionados, não amostra representativa**
+**2026-09-10 · Versão 0.2 · Casos selecionados, não amostra representativa**
 
 [Estudo principal](README.md) · [Fontes](FONTES.md) · [Método](METODO.md)
 
@@ -33,6 +33,8 @@ Imparcialidade significa aplicar o mesmo padrão de prova às empresas, aos gove
 **Pergunta implacável:** o modelo hidrogeológico usa o pior período plausível de disponibilidade, ou uma média que esconde a seca?
 
 ## C04 — Pecém, Ceará, Brasil: benefício energético não substitui participação
+
+**Evidência comunitária.** O protocolo Anacé e a mobilização dos moradores estão agora em [Comunidades](COMUNIDADES.md), antes da avaliação das respostas institucionais.
 
 **Ato documentado.** O MPF/DPU emitiu recomendação em maio de 2026 apontando fragilidades no licenciamento, pedindo consulta ao povo Anacé e demais comunidades tradicionais e avaliação de impactos cumulativos. O ato é extrajudicial; não é condenação judicial nem demonstração de dano operacional já consumado. [D14][D14]
 
@@ -65,6 +67,18 @@ Imparcialidade significa aplicar o mesmo padrão de prova às empresas, aos gove
 **Interpretação.** É um exemplo de integração possível entre infraestrutura digital e aquecimento. Para comparar alternativas, precisamos de calor efetivamente entregue, energia das bombas, perdas, sazonalidade e combustível substituído. O número de residências não demonstra neutralidade climática de toda a instalação.
 
 **Pergunta implacável:** o sistema reduz emissões e custos em relação à alternativa que realmente existiria naquele lugar, e quem recebe a economia?
+
+## C08 — Memphis / Southaven, Estados Unidos: ruído e exposição cumulativa
+
+Relatos de moradores, monitoramento comunitário e resposta da empresa são examinados em [Comunidades](COMUNIDADES.md). O [registro de dados](DADOS.md) distingue agregados publicados do monitoramento e atribuição às fontes. A geração local exige acompanhar a eletricidade para além do prédio do data center.
+
+## C09 — The Dalles, Estados Unidos: água e acesso à informação
+
+A [investigação comunitária](COMUNIDADES.md) segue perguntas de moradores e jornalismo local até documentos municipais. A [série pública de água](DADOS.md) preserva a fonte numérica e os cálculos, incluindo uma divergência entre reportagem e dados. Pressão sobre recursos e transparência são questões distintas que exigem respostas.
+
+## C10 — Querétaro, México: expansão em meio à insegurança hídrica
+
+A [investigação comunitária](COMUNIDADES.md) inclui moradores entrevistados pela Pública/CLIP, suas dificuldades de acesso à água e decisões de expansão. A escassez anterior exige examinar novas demandas; não estabelece a parcela de cada instalação no desabastecimento.
 
 ## O que os casos permitem concluir
 

@@ -42,7 +42,7 @@ A versão inicial reúne **23 evidências e 20 fontes**, distingue perdas irreve
 
 Ainda não há intervenção social ou ambiental implementada nem impacto medido. A ficha pública para avaliar data centers e serviços de IA está preparada; o próximo passo proposto é aplicá-la a um caso concreto. O [registro de continuidade](CONTINUIDADE.md) mantém a retomada explícita.
 
-Também publicamos o [estudo focado em data centers](pesquisa/datacenters/README.md), com funcionamento físico, impactos, **24 fontes, sete casos regionais** e uma ficha reutilizável de avaliação. A [responsabilidade editorial](RESPONSABILIDADE.md) identifica modelo e revisor em todas as publicações.
+Também publicamos o [estudo focado em data centers](pesquisa/datacenters/README.md), com funcionamento físico, impactos, **36 fontes, dez casos regionais** e uma ficha reutilizável de avaliação. A [responsabilidade editorial](RESPONSABILIDADE.md) identifica modelo e revisor em todas as publicações.
 
 ## Origem e uso
 

@@ -150,7 +150,82 @@ The entries below identify what was actually read. An abstract or institutional 
 - **Source:** [original document or identified republication](https://ghgprotocol.org/sites/default/files/standards/Corporate-Value-Chain-Accounting-Reporing-Standard_041613_2.pdf?pdf=download).
 - **Reading and limits:** Categories for purchased goods, capital goods, and waste; accounting framework, not a measured sector footprint.
 
+## D25 — Povo Anacé / JAPIMAN — Protocolo de Consulta e Consentimento
+
+- **Publication / period:** 2024.
+- **Source:** [document](https://observatorio.direitosocioambiental.org/wp-content/uploads/2024/12/OFICIAL-PROTOCOLO-DE-CONSULTA-E-CONSENTIMENTO-PREVIO-LIVRE-E-INFORMADO-DO-POVO-ANACE-DA-TERRA-TRADICIONAL-copia.pdf).
+- **Reading and provenance:** Primary community document; pages 9, 16, 18–19 read. Defines the community's consultation process; not an environmental measurement.
+
+## D26 — Intercept Brasil — Protesto Anacé contra o data center
+
+- **Publication / period:** 2025-08-04; 2025-08-06.
+- **Source:** [document](https://www.intercept.com.br/2025/08/04/indigenas-anace-protestam-data-center-tiktok-ceara/).
+- **Reading and provenance:** Reporting and update with leaders, JAPIMAN's letter, and Semace's response; the reproduced letter is not an interview conducted by us.
+
+## D27 — Idec — Não somos quintal de data centers
+
+- **Publication / period:** 2025.
+- **Source:** [document](https://idec.org.br/pdf/idec_estudo-nao-somos-quintal-de-data-centers.pdf).
+- **Reading and provenance:** Consumer-rights NGO report; credits and pages 80–83 consulted. Credits identify Luminate support. Synthesis and advocacy, not new measurements at Pecém.
+
+## D28 — Agência Pública / CLIP — Data centers e sigilo
+
+- **Publication / period:** 2025-09-19.
+- **Source:** [document](https://apublica.org/2025/09/data-centers-se-escondem-por-tras-de-segredo-industrial-e-acordos-de-confidencialidade/).
+- **Reading and provenance:** Collaborative investigation, residents, information requests, and company responses. Querétaro section consulted; does not establish each facility's contribution to shortages.
+
+## D29 — Mississippi Free Press — Southaven residents and xAI turbines
+
+- **Publication / period:** 2026-03-06; 2026-04-22.
+- **Source:** [document](https://www.mississippifreepress.org/xai-faces-fierce-opposition-over-southaven-mississippi-power-plant-permit/).
+- **Reading and provenance:** Local reporting with interviews and hearing coverage. Used for residents' experience; March permitting status is not presented as current.
+
+## D30 — MCAP / CEEJH INC — South Memphis Follow-Up Report
+
+- **Publication / period:** 2026-04.
+- **Source:** [document](https://static1.squarespace.com/static/602aef80ede5cc16ae73697b/t/6a1064ba4158e3099fd14b53/1779459258033/South+Memphis+Follow+Up+Report_Apr26.pdf).
+- **Reading and provenance:** Four pages read; community monitoring, hourly aggregates. April in filename; released in May, though MCAP's index labels it 2026-06-27. Original hourly series not obtained.
+
+## D31 — EPA — NAAQS Table
+
+- **Publication / period:** 2026-09-10 (accessed).
+- **Source:** [document](https://www.epa.gov/criteria-air-pollutants/naaqs-table).
+- **Reading and provenance:** Used only to check the averaging period of the PM2.5 standard; not to replace community monitoring.
+
+## D32 — SpaceXAI — Greater Memphis Area Site Updates
+
+- **Publication / period:** 2026-07-30.
+- **Source:** [document](https://x.ai/memphis/updates).
+- **Reading and provenance:** Company's direct statement on turbines, timetable, and mitigation. Does not verify future compliance or air quality.
+
+## D33 — OPB — Water demand and Mount Hood reservoir
+
+- **Publication / period:** 2026-01-15; 2026-01-23.
+- **Source:** [document](https://www.opb.org/article/2026/01/15/as-googles-water-demands-grow-the-dalles-aims-to-pull-more-from-mount-hood-forest/).
+- **Reading and provenance:** Regional reporting with residents, environmentalists, Google, and city officials; corrected version. The 2012 text/CSV discrepancy is noted in DADOS.
+
+## D34 — OPB — Response to The Dalles mayor and underlying records
+
+- **Publication / period:** 2026-01-23.
+- **Source:** [document](https://www.opb.org/article/2026/01/23/the-dalles-mayor-data-center-google/).
+- **Reading and provenance:** Reporting explanation, corrections, and linked documents. Same investigation as D33, not independent confirmation.
+
+## D35 — OPB / Datawrapper — The Dalles water-use data
+
+- **Publication / period:** 2012–2024; 2026-09-10 (accessed).
+- **Source:** [document](https://datawrapper.dwcdn.net/BMayV/2/dataset.csv).
+- **Reading and provenance:** Public CSV obtained and preserved: 13 annual rows. OPB attributes data to the city. Not raw readings from each meter or isolated evaporative consumption.
+
+## D36 — The Dalles — City Council minutes and residents' submissions
+
+- **Publication / period:** 2021-11-08.
+- **Source:** [document](https://ompnetwork.s3-us-west-2.amazonaws.com/sites/312/documents/cc_2021-11-08_council_minutes.pdf?jYfO_44rHBJuOFVzCoOJEEfTLBPitWPC=).
+- **Reading and provenance:** 11-page minutes; pages 4–7 consulted, including a resident's submission and Google's funding of studies. Personal contact details in attachments are not republished.
+
 ## Selection notes
+
+Version 0.2 adds community-authored records, NGO research, local investigations, and accessible data. D33/D34 are one OPB investigation; D35 is its dataset. D27 cites reporting also listed here. The 36 references are not 36 independent confirmations.
+
 
 The initial search also returned paywalled reports, unofficial reproductions, and an old draft of the GHG Protocol. They were not used as substitutes for verified final documents. We did not download entire external collections, authenticate private records, contact sources, or perform field measurements.
 

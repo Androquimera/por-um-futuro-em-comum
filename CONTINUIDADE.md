@@ -32,7 +32,7 @@ Androquimera escolheu investigar a crise climática e ecológica, perdas irrever
 
 A versão 0.1 reúne síntese, 23 evidências, 20 fontes, propostas de ação e procedimento manual de atualização. Notícias específicas sobre gelo azul no Nepal e uma erupção permanecem sem identificação. A base distingue limites ultrapassados de pontos de inflexão e de uma previsão de inabitabilidade global.
 
-O [estudo de data centers](pesquisa/datacenters/README.md) amplia essa base com 24 fontes, sete casos regionais e uma [ficha de avaliação já preparada](pesquisa/datacenters/METODO.md). **Próximo passo proposto:** aplicação da ficha a um caso, como o Pecém, reunindo documentos e dados sem inventar medições.
+O [estudo de data centers](pesquisa/datacenters/README.md) amplia essa base com 36 fontes, dez casos regionais e uma [ficha de avaliação já preparada](pesquisa/datacenters/METODO.md). **Próximo passo proposto:** aplicação da ficha a um caso, como o Pecém, reunindo documentos e dados sem inventar medições.
 
 A revisão editorial mensal está proposta para 10 de outubro de 2026. Não há automação ou execução recorrente ativada. Nenhuma assinatura paga, servidor ou compra é requisito para participar.
 
@@ -57,6 +57,12 @@ Ao concluir uma etapa, acrescente um registro curto abaixo: data, pedido, entreg
 - **2026-09-10 — Validação editorial do estudo:** 36 documentos em 18 pares; 191 links internos e 156 referências conferidos, sem destinos ausentes. Os cinco novos pares preservam os mesmos números e URLs de fontes; 24 fontes e sete casos em cada idioma. Codificação UTF-8 e diff sem erros de formatação. Essa validação editorial não substitui revisão humana nem auditoria dos dados de origem.
 
 - **2026-09-10 — Créditos simplificados:** andromedus. (@Androquimera) confirmou a leitura de todo o texto e a revisão de todas as fontes. A seu pedido, os créditos passam a conter somente Modelo e Revisor; as ressalvas de revisão humana não registrada foram retiradas e não devem ser reintroduzidas.
+
+
+- **2026-09-10 — Evidência comunitária, versão 0.2:** a pedido de Androquimera, corrigido o viés institucional da seleção; acrescentadas 12 fontes e três casos, chegando a 36 fontes e dez casos. Documentos comunitários, ONGs e jornalismo local passam a orientar o método. Publicado registro do CSV da OPB, reproduzidos cálculos de água e agregados de monitoramento e separados padrão anual e comparação horária. Série original dos sensores ainda indisponível; sem entrevistas novas. Créditos mantidos apenas como Modelo e Revisor.
+
+
+- **2026-09-10 — Validação da versão 0.2:** 40 documentos em 20 pares de idiomas, 207 links internos e 194 referências resolvidas. Seis pares do estudo de data centers conferidos quanto a números e URLs de fontes. Hash do CSV original e cálculos de participação dos 13 anos verificados. Porcentagens publicadas do monitoramento recalculadas; a série horária original não foi reproduzida.
 
 <!-- editorial-record -->
 ---

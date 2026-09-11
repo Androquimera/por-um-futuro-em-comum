@@ -98,7 +98,7 @@ Propomos abertura acompanhada de documentação verificável, avaliação indepe
 
 ## 7. O que esta etapa entrega
 
-A investigação de infraestrutura agora tem um [estudo específico sobre data centers](datacenters/README.md), com sete casos regionais, 24 fontes e ficha de avaliação. Ele amplia esta base sem transformar propostas em impacto medido.
+A investigação de infraestrutura agora tem um [estudo específico sobre data centers](datacenters/README.md), com dez casos regionais, 36 fontes e ficha de avaliação. Ele amplia esta base sem transformar propostas em impacto medido.
 
 Esta publicação oferece uma base inicial para discussão e revisão, um registro de evidências e [propostas verificáveis](ACOES.md). Ela ainda não comprova redução de emissões, proteção de habitats ou mudança de comportamento institucional.
 
