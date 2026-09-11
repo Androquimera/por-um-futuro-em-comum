@@ -1,0 +1,42 @@
+title: "Por um Futuro em Comum · Toward a Shared Future"
+description: >-
+  Manifesto pelo amor, pela paz e pelo cuidado com a Terra, e acervo público de
+  pesquisa em português e inglês. A manifesto for love, peace, and care for the
+  Earth, with a public research collection in Portuguese and English.
+url: "https://androquimera.github.io"
+baseurl: "/por-um-futuro-em-comum"
+lang: "pt-BR"
+repository: "Androquimera/por-um-futuro-em-comum"
+
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# O README de cada pasta é o índice daquela pasta, tanto no GitHub quanto aqui.
+# Each folder's README is that folder's index, both on GitHub and here.
+defaults:
+  - scope: { path: "README.md" }
+    values: { permalink: "/" }
+  - scope: { path: "pt/README.md" }
+    values: { permalink: "/pt/" }
+  - scope: { path: "en/README.md" }
+    values: { permalink: "/en/" }
+  - scope: { path: "dados/README.md" }
+    values: { permalink: "/dados/" }
+  - scope: { path: "pt/pesquisa/README.md" }
+    values: { permalink: "/pt/pesquisa/" }
+  - scope: { path: "en/research/README.md" }
+    values: { permalink: "/en/research/" }
+  - scope: { path: "pt/pesquisa/datacenters/README.md" }
+    values: { permalink: "/pt/pesquisa/datacenters/" }
+  - scope: { path: "en/research/datacenters/README.md" }
+    values: { permalink: "/en/research/datacenters/" }
+
+exclude:
+  - .all-contributorsrc
+  - .gitattributes
+  - .gitignore
+  - work/
