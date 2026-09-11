@@ -1,55 +1,18 @@
-# Como participar
+# Como participar · How to contribute
 
-**Português** · [English](CONTRIBUTING.en.md)
+**🇧🇷 O guia completo está em [pt/como-contribuir.md](pt/como-contribuir.md).**
 
-O projeto recebe pessoas de qualquer crença ou sem religião. Você pode concordar com sua direção e questionar seus textos e métodos.
+**🇬🇧 The full guide is at [en/how-to-contribute.md](en/how-to-contribute.md).**
 
-Comece pelo [manifesto](MANIFESTO.md). Para contribuir, abra uma issue com uma pergunta ou proposta concreta, ou envie uma alteração por pull request. Uma correção de linguagem, tradução acessível, fonte melhor ou crítica fundamentada tem valor.
-
-## Uma contribuição simples
-
-Explique, na medida do que estiver propondo:
-
-- o que pretende melhorar e quem poderá se beneficiar;
-- qual evidência ou necessidade sustenta a proposta;
-- como conferir o resultado;
-- limitações, custos e possíveis efeitos indesejados.
-
-Adapte o nível de detalhe ao tamanho da mudança. Uma correção de texto não precisa de um relatório.
-
-## Publicações em português e inglês
-
-Tudo que o projeto publica deve ter versões completas em português brasileiro e inglês, na mesma entrega. Mantenha os pares de documentos e os links entre idiomas. Correções e ampliações precisam chegar às duas versões, preservando fontes, números, incertezas e ressalvas.
-
-Você pode propor uma contribuição em um idioma e pedir ajuda com a tradução. A publicação final só estará pronta quando as duas versões tiverem sido preparadas e revisadas.
-
-## Como convivemos
-
-Escute, discorde com argumentos e preserve a dignidade de quem participa. Não publique dados pessoais de outras pessoas nem use o projeto para assediar, ameaçar ou desumanizar.
-
-A paz buscada aqui inclui o direito de apontar injustiça e pedir responsabilização. Acolher uma pessoa não obriga o projeto a aceitar toda proposta.
-
-Ninguém precisa pagar, trabalhar sem descanso, revelar experiências pessoais ou demonstrar devoção para contribuir. É possível pausar ou sair.
-
-## Uso de inteligência artificial
-
-Contribuições com assistência de IA são bem-vindas. Revise o conteúdo, verifique afirmações relevantes e informe a assistência quando ela for material para entender o trabalho.
-
-Toda publicação identifica modelo e revisor, conforme a [ficha de responsabilidade](RESPONSABILIDADE.md). Informe o modelo que realmente participou e não declare revisão, aprovação ou verificação independente que não ocorreu.
-
-Leia [AGENTS.md](AGENTS.md) ao trabalhar com agentes. Para Claude, há também [CLAUDE.md](CLAUDE.md). Não atribua endosso a pessoas, sistemas ou organizações que não o deram.
-
-## Revisão e licença
-
-Androquimera mantém a direção editorial inicial. Alterações podem ser discutidas e revisadas publicamente.
-
-Ao propor a inclusão de texto de sua autoria, indique que ele pode ser distribuído sob a [CC BY 4.0](LICENSE.md) usada pelo projeto. Identifique material de terceiros e sua licença; só inclua conteúdo que você tenha direito de compartilhar.
-
-As regras de convivência orientam a participação neste repositório. As permissões de reutilização dos textos são as da licença.
-
-<!-- editorial-record -->
 ---
 
-**Modelo:** GPT-6 Astra (`gpt-6-astra`).
+Em resumo · In short:
 
-**Revisor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).
+- Comece pelo [manifesto](pt/manifesto.md) · Start with the [manifesto](en/manifesto.md).
+- Abra uma issue com uma pergunta ou proposta concreta, ou envie um pull request · Open an issue with a concrete question or proposal, or send a pull request.
+- Toda publicação sai em português e inglês, com as mesmas fontes e ressalvas · Every publication ships in Portuguese and English, with the same sources and caveats.
+- Os nomes de arquivo seguem as regras de [estrutura do acervo](pt/estrutura.md) · Filenames follow the [collection structure](en/structure.md) rules.
+- Toda contribuição é creditada: veja [colaboradores](pt/colaboradores.md) · Every contribution is credited: see [contributors](en/contributors.md).
+
+Uma correção de linguagem, uma tradução acessível, uma fonte melhor ou uma crítica fundamentada já é uma contribuição.
+A language fix, an accessible translation, a better source, or a well-argued critique is already a contribution.

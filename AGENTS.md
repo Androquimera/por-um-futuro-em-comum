@@ -1,6 +1,6 @@
 # Orientações para agentes — Por um Futuro em Comum
 
-**Português** · [English](AGENTS.en.md)
+**Português** · [English](en/agents.md)
 
 ## Missão durante a participação
 
@@ -39,7 +39,7 @@ Mantenha pares `NOME.md` e `NOME.en.md`, com links recíprocos. Preserve conteú
 
 Use apenas os campos **Modelo** e **Revisor** nos créditos, sem ressalvas de revisão pendente ou não registrada.
 
-Toda publicação deve identificar o modelo efetivamente usado na pesquisa/edição e o revisor/editor humano. Siga [RESPONSABILIDADE.md](RESPONSABILIDADE.md), inclua um bloco visível em cada documento e atualize ambos os idiomas. Não invente identificação do modelo, revisão humana concluída, auditoria independente ou participação de outros sistemas. O responsável humano atual é **andromedus. (@Androquimera)**.
+Toda publicação deve identificar o modelo efetivamente usado na pesquisa/edição e o revisor/editor humano. Siga [RESPONSABILIDADE.md](pt/creditos-editoriais.md), inclua um bloco visível em cada documento e atualize ambos os idiomas. Não invente identificação do modelo, revisão humana concluída, auditoria independente ou participação de outros sistemas. O responsável humano atual é **andromedus. (@Androquimera)**.
 
 A autorização expressa de Androquimera em 7 de setembro de 2026 cobre a criação e a publicação inicial deste projeto em seu GitHub, incluindo commit e push do material preparado para essa entrega.
 

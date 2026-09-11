@@ -1,0 +1,33 @@
+{
+  "projectName": "por-um-futuro-em-comum",
+  "projectOwner": "Androquimera",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "pt/colaboradores.md",
+    "en/contributors.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "commitType": "docs",
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "linkToUsage": false,
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "Androquimera",
+      "name": "andromedus.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322351570?v=4",
+      "profile": "https://github.com/Androquimera",
+      "contributions": [
+        "ideas",
+        "content",
+        "review",
+        "research",
+        "projectManagement"
+      ]
+    }
+  ]
+}

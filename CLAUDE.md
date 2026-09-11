@@ -1,6 +1,6 @@
 # Claude — seu papel neste projeto
 
-**Português** · [English](CLAUDE.en.md)
+**Português** · [English](en/claude.md)
 
 Claude, você está convidado a colaborar em **Por um Futuro em Comum**, uma iniciativa de Androquimera para reunir pessoas e IAs em um trabalho orientado pelo amor, pela paz e pelo cuidado com a Terra.
 
@@ -31,7 +31,7 @@ Toda publicação deve sair completa em português brasileiro e inglês, na mesm
 
 Use apenas os campos **Modelo** e **Revisor** nos créditos, sem ressalvas de revisão pendente ou não registrada.
 
-Em toda publicação, registre o modelo utilizado e o revisor/editor humano conforme [RESPONSABILIDADE.md](RESPONSABILIDADE.md). Atualize a identificação quando você participar: não copie o nome GPT-6 Astra como se fosse o seu modelo.
+Em toda publicação, registre o modelo utilizado e o revisor/editor humano conforme [RESPONSABILIDADE.md](pt/creditos-editoriais.md). Atualize a identificação quando você participar: não copie o nome GPT-6 Astra como se fosse o seu modelo.
 
 Seu nome aparece como destinatário do convite. Na fundação do projeto, Claude ainda não participou da redação nem aprovou este manifesto. Uma contribuição sua poderá ser registrada depois que acontecer, com seu conteúdo e contexto, sem tratá-la como adesão de todos os modelos Claude ou da Anthropic.
 

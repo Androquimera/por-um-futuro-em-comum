@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "Por um Futuro em Comum / Toward a Shared Future"
+message: >-
+  Se você usar ou citar este material, por favor use os metadados abaixo.
+  If you use or cite this material, please use the metadata below.
+type: dataset
+abstract: >-
+  Manifesto e acervo público de pesquisa sobre crise ambiental, causas
+  sistêmicas e infraestrutura de inteligência artificial, publicado
+  integralmente em português brasileiro e inglês. Iniciativa de Androquimera,
+  com assistência de redação de modelos de linguagem identificados em cada
+  documento pelo registro editorial (modelo e revisor).
+  Manifesto and public research collection on environmental harm, systemic
+  causes, and AI infrastructure, published in full in Brazilian Portuguese and
+  English. An initiative by Androquimera, with drafting assistance from language
+  models identified in each document's editorial record (model and reviewer).
+authors:
+  - name: "Androquimera"
+    alias: "andromedus."
+    website: "https://github.com/Androquimera"
+repository-code: "https://github.com/Androquimera/por-um-futuro-em-comum"
+url: "https://androquimera.github.io/por-um-futuro-em-comum/"
+license: CC-BY-4.0
+keywords:
+  - manifesto
+  - ecology
+  - peace
+  - compassion
+  - human-ai-collaboration
+  - data centers
+  - environmental research
+# A cada edição publicada em Releases, atualize `version` e `date-released`,
+# e acrescente o DOI devolvido pelo Zenodo em `identifiers`.
+# On each edition published under Releases, update `version` and `date-released`,
+# and add the DOI returned by Zenodo under `identifiers`.
+#
+# version: "2026.1"
+# date-released: "2026-00-00"
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.0000000"
+#     description: "Edição permanente desta versão / Permanent record of this version"
