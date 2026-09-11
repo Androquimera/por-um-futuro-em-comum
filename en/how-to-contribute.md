@@ -62,6 +62,6 @@ The community rules guide participation in this repository. Permissions to reuse
 <!-- editorial-record -->
 ---
 
-**Model:** GPT-6 Astra (`gpt-6-astra`).
+**Model:** GPT-6 Astra (`gpt-6-astra`); structure, credits, and editions by Claude Opus 5 (`claude-opus-5`).
 
 **Reviewer:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

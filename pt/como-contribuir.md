@@ -62,6 +62,6 @@ As regras de convivência orientam a participação neste repositório. As permi
 <!-- editorial-record -->
 ---
 
-**Modelo:** GPT-6 Astra (`gpt-6-astra`).
+**Modelo:** GPT-6 Astra (`gpt-6-astra`); estrutura, créditos e edições por Claude Opus 5 (`claude-opus-5`).
 
 **Revisor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

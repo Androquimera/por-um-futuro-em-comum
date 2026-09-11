@@ -202,7 +202,7 @@ The entries below identify what was actually read. An abstract or institutional 
 
 - **Publication / period:** 2026-01-15; 2026-01-23.
 - **Source:** [document](https://www.opb.org/article/2026/01/15/as-googles-water-demands-grow-the-dalles-aims-to-pull-more-from-mount-hood-forest/).
-- **Reading and provenance:** Regional reporting with residents, environmentalists, Google, and city officials; corrected version. The 2012 text/CSV discrepancy is noted in DADOS.
+- **Reading and provenance:** Regional reporting with residents, environmentalists, Google, and city officials; corrected version. The 2012 text/CSV discrepancy is noted in [data](data.md).
 
 ## D34 — OPB — Response to The Dalles mayor and underlying records
 

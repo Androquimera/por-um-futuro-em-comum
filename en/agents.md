@@ -10,11 +10,11 @@ This mission guides specific tasks authorized within this project. It does not g
 
 ## First contact and resuming work
 
-1. Read MANIFESTO.en.md, ORIGEM.en.md, and CONTINUIDADE.en.md.
+1. Read the [manifesto](manifesto.md), the [origin](origin.md), and the [continuity](continuity.md).
 2. Check the actual files, Git status, and existing changes before editing.
 3. Identify the current request, the last verified result, and the smallest useful deliverable.
 4. Preserve existing decisions. If there is a material conflict or uncertainty, explain it clearly.
-5. When finished, update both versions of CONTINUIDADE with what was done, verified, and the next step. Do not invent progress.
+5. When finished, update both versions of the [continuity record](continuity.md) with what was done, verified, and the next step. Do not invent progress.
 
 Brazilian Portuguese is the primary language. Use standard spelling and accessible language. The user works through the Codex and Claude apps: commands may serve as background infrastructure without requiring the user to operate a terminal.
 
@@ -39,7 +39,7 @@ Maintain pairs named `NAME.md` and `NAME.en.md`, with reciprocal links. Preserve
 
 Use only the **Model** and **Reviewer** credit fields, without caveats about pending or unrecorded review.
 
-Every publication must identify the model actually used in research/editing and the human reviewer/editor. Follow [RESPONSABILIDADE.en.md](editorial-credits.md), include a visible block in every document, and update both languages. Do not invent a model identity, completed human review, independent audit, or participation by other systems. The current human lead is **andromedus. (@Androquimera)**.
+Every publication must identify the model actually used in research/editing and the human reviewer/editor. Follow the [editorial credits](editorial-credits.md), include a visible block in every document, and update both languages. Do not invent a model identity, completed human review, independent audit, or participation by other systems. The current human lead is **andromedus. (@Androquimera)**.
 
 Androquimera's express authorization on September 7, 2026 covers the creation and initial publication of this project on their GitHub, including committing and pushing the material prepared for that delivery.
 
@@ -63,6 +63,6 @@ When researching local impacts, seek affected communities, NGOs, local journalis
 <!-- editorial-record -->
 ---
 
-**Model:** GPT-6 Astra (`gpt-6-astra`).
+**Model:** GPT-6 Astra (`gpt-6-astra`); structure, credits, and editions by Claude Opus 5 (`claude-opus-5`).
 
 **Reviewer:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

@@ -20,12 +20,12 @@ Indicadores anuais não precisam ser reescritos a cada notícia diária. Uma atu
 1. Ler as orientações do projeto, esta base e o pedido atual. Conferir o Git e alterações de outras pessoas.
 2. Abrir a fonte original e registrar **data de publicação, período dos dados, região, unidade, cenário e data da consulta**. Distinguir publicação de recebimento de artigo.
 3. Procurar edição mais recente, errata e limites metodológicos. Priorizar artigos, dados e instituições responsáveis pelo levantamento. Reportagens ajudam a localizar a origem, não substituem seu conteúdo.
-4. Atualizar ou acrescentar a linha pertinente em EVIDENCIAS.md. Preservar o ID, registrar o que mudou e manter períodos diferentes distinguíveis.
-5. Revisar conclusões afetadas em README.md e ACOES.md. Uma alteração que enfraqueça nossa tese também deve ser incorporada.
-6. Acrescentar ou corrigir a ficha da fonte em FONTES.md. Informar se foram lidos resumo, seção, tabela ou texto integral; não inventar revisão completa.
+4. Atualizar ou acrescentar a linha pertinente em [evidencias.md](evidencias.md). Preservar o ID, registrar o que mudou e manter períodos diferentes distinguíveis.
+5. Revisar conclusões afetadas em [README.md](README.md) e [acoes.md](acoes.md). Uma alteração que enfraqueça nossa tese também deve ser incorporada.
+6. Acrescentar ou corrigir a ficha da fonte em [fontes.md](fontes.md). Informar se foram lidos resumo, seção, tabela ou texto integral; não inventar revisão completa.
 7. Atualizar integralmente português e inglês na mesma entrega. Conferir paridade de conteúdo, IDs, fontes, números, datas, unidades e ressalvas, além de links internos e conteúdo do diff. Evitar dados privados e texto copiado de fontes. Não publicar com uma versão ausente ou desatualizada.
-8. Atualizar CONTINUIDADE.md com entrega, verificação, limites e próximo passo. Publicar quando a tarefa vigente autorizar; verificar o commit remoto após o push.
-9. Identificar o modelo utilizado e o revisor em cada publicação, conforme [RESPONSABILIDADE.md](../creditos-editoriais.md), sempre nos dois idiomas.
+8. Atualizar a [continuidade](../continuidade.md) com entrega, verificação, limites e próximo passo. Publicar quando a tarefa vigente autorizar; verificar o commit remoto após o push.
+9. Identificar o modelo utilizado e o revisor em cada publicação, conforme os [créditos editoriais](../creditos-editoriais.md), sempre nos dois idiomas.
 
 ## Regras que evitam conclusões falsas
 

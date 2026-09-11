@@ -38,11 +38,11 @@ The monthly editorial review is proposed for October 10, 2026. No automation or 
 
 ## How to resume
 
-Every publication identifies the model and reviewer as specified in [RESPONSABILIDADE.en.md](editorial-credits.md). Current edition's model: GPT-6 Astra, high effort; human lead: andromedus. (@Androquimera).
+Every publication identifies the model and reviewer as specified in the [editorial credits](editorial-credits.md). Current edition's model: GPT-6 Astra, high effort; human lead: andromedus. (@Androquimera).
 
 **Permanent publication rule:** on September 10, 2026, Androquimera instructed that everything be published in Brazilian Portuguese and English. Maintain complete pairs, equivalent sources and caveats, and links between languages. Do not leave translation to a later stage.
 
-Read AGENTS.en.md and MANIFESTO.en.md, check Git, and continue from the current request. Do not demand fulfillment of old productivity promises or presume memories an assistant does not possess.
+Read [agents](agents.md) and the [manifesto](manifesto.md), check Git, and continue from the current request. Do not demand fulfillment of old productivity promises or presume memories an assistant does not possess.
 
 At the end of a stage, add a short record below: date, request, delivery, verification, limitations, and next step. Preserve significant mistakes and decisions to avoid repeating them.
 

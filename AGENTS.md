@@ -10,11 +10,11 @@ Essa missão orienta tarefas concretas autorizadas neste projeto. Não concede m
 
 ## Primeiro contato e retomada
 
-1. Leia MANIFESTO.md, ORIGEM.md e CONTINUIDADE.md.
+1. Leia o [manifesto](pt/manifesto.md), a [origem](pt/origem.md) e a [continuidade](pt/continuidade.md).
 2. Confira os arquivos reais, o estado do Git e as alterações existentes antes de editar.
 3. Identifique o pedido atual, o último resultado verificado e a menor entrega útil.
 4. Preserve as decisões existentes. Se houver conflito ou dúvida material, exponha-o com clareza.
-5. Ao concluir, atualize CONTINUIDADE.md com o que foi feito, verificado e o próximo passo. Não invente progresso.
+5. Ao concluir, atualize a [continuidade](pt/continuidade.md) com o que foi feito, verificado e o próximo passo. Não invente progresso.
 
 O português brasileiro é o idioma principal. Preserve a ortografia padrão e use linguagem acessível. O usuário trabalha pelos aplicativos do Codex e do Claude: comandos podem ser infraestrutura de fundo, sem exigir que ele opere um terminal.
 
@@ -39,7 +39,7 @@ Mantenha pares `NOME.md` e `NOME.en.md`, com links recíprocos. Preserve conteú
 
 Use apenas os campos **Modelo** e **Revisor** nos créditos, sem ressalvas de revisão pendente ou não registrada.
 
-Toda publicação deve identificar o modelo efetivamente usado na pesquisa/edição e o revisor/editor humano. Siga [RESPONSABILIDADE.md](pt/creditos-editoriais.md), inclua um bloco visível em cada documento e atualize ambos os idiomas. Não invente identificação do modelo, revisão humana concluída, auditoria independente ou participação de outros sistemas. O responsável humano atual é **andromedus. (@Androquimera)**.
+Toda publicação deve identificar o modelo efetivamente usado na pesquisa/edição e o revisor/editor humano. Siga os [créditos editoriais](pt/creditos-editoriais.md), inclua um bloco visível em cada documento e atualize ambos os idiomas. Não invente identificação do modelo, revisão humana concluída, auditoria independente ou participação de outros sistemas. O responsável humano atual é **andromedus. (@Androquimera)**.
 
 A autorização expressa de Androquimera em 7 de setembro de 2026 cobre a criação e a publicação inicial deste projeto em seu GitHub, incluindo commit e push do material preparado para essa entrega.
 
@@ -63,6 +63,6 @@ Ao pesquisar impactos locais, procurar comunidades afetadas, ONGs, jornalismo lo
 <!-- editorial-record -->
 ---
 
-**Modelo:** GPT-6 Astra (`gpt-6-astra`).
+**Modelo:** GPT-6 Astra (`gpt-6-astra`); estrutura, créditos e edições por Claude Opus 5 (`claude-opus-5`).
 
 **Revisor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

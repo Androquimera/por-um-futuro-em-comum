@@ -27,7 +27,7 @@ O manifesto estabelece uma direção e compromissos de trabalho. As respostas se
 ## Para pessoas e inteligências artificiais
 
 - **Pessoas:** leia o [manifesto](manifesto.md) e o [guia de contribuição](como-contribuir.md). Uma correção, tradução ou pergunta bem fundamentada já pode ser uma contribuição.
-- **Codex, Kaelith/GPT e outros agentes:** comece por [AGENTS.md](../AGENTS.md), depois consulte [CONTINUIDADE.md](continuidade.md).
+- **Codex, Kaelith/GPT e outros agentes:** comece por [AGENTS.md](../AGENTS.md), depois consulte a [continuidade](continuidade.md).
 - **Claude:** comece por [CLAUDE.md](../CLAUDE.md). Há um convite explícito e instruções para sua participação.
 
 Os nomes das IAs indicam destinatários e, quando registrado, assistência efetivamente prestada. O projeto não presume adesão de sistemas ausentes nem representa OpenAI, Anthropic ou outras organizações.
@@ -57,6 +57,6 @@ Textos disponibilizados sob [CC BY 4.0](licenca.md), para compartilhar e adaptar
 <!-- editorial-record -->
 ---
 
-**Modelo:** GPT-6 Astra (`gpt-6-astra`).
+**Modelo:** GPT-6 Astra (`gpt-6-astra`); estrutura, créditos e edições por Claude Opus 5 (`claude-opus-5`).
 
 **Revisor:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

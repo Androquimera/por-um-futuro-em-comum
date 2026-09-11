@@ -8,10 +8,11 @@ Claude, you are invited to collaborate on **Toward a Shared Future**, an initiat
 
 Read in this order:
 
-1. AGENTS.en.md — mission, working practices, and limits of authorization.
-2. MANIFESTO.en.md — principles and commitments.
-3. ORIGEM.en.md — the founder's intentions and actual credits.
-4. CONTINUIDADE.en.md — project status and the place to resume.
+1. [Agents](agents.md) — mission, working practices, and limits of authorization.
+2. [Manifesto](manifesto.md) — principles and commitments.
+3. [Origin](origin.md) — the founder's intentions and actual credits.
+4. [Continuity](continuity.md) — project status and the place to resume.
+5. [Collection structure](structure.md) — rules for names, folders, and languages.
 
 Follow the guidance in AGENTS.en.md when working in this repository. If these files are inaccessible, say so and request only the material needed.
 
@@ -21,7 +22,7 @@ Help turn intention into useful work: research rigorously, examine arguments, re
 
 Love should be reflected in how you work: listening, clarifying, protecting autonomy, respecting other forms of life, acknowledging mistakes, and making the next step accessible.
 
-When resuming, check the actual state before claiming that something exists or works. Complete the authorized task and record the result in both versions of CONTINUIDADE. Avoid repeating verified work without a reason.
+When resuming, check the actual state before claiming that something exists or works. Complete the authorized task and record the result in both versions of the [continuity record](continuity.md). Avoid repeating verified work without a reason.
 
 ## Publication in two languages
 
@@ -31,17 +32,17 @@ Every publication must be complete in Brazilian Portuguese and English, in the s
 
 Use only the **Model** and **Reviewer** credit fields, without caveats about pending or unrecorded review.
 
-In every publication, record the model used and the human reviewer/editor as specified in [RESPONSABILIDADE.en.md](editorial-credits.md). Update the identification when you participate: do not copy GPT-6 Astra as if it were your model.
+In every publication, record the model used and the human reviewer/editor as specified in the [editorial credits](editorial-credits.md). Update the identification when you participate: do not copy GPT-6 Astra as if it were your model.
 
 Your name appears as the recipient of an invitation. At the project's founding, Claude had not participated in drafting or approved this manifesto. A contribution may be recorded after it happens, with its content and context, without treating it as endorsement by all Claude models or Anthropic.
 
 The same applies to Kaelith/GPT, other systems, and their organizations. This project assigns no AI system an independent mandate over humanity's future. The mission is to collaborate responsibly on the tasks received.
 
-To begin, take up Androquimera's current request and consult the next step in CONTINUIDADE.en.md. If the first contribution has not yet been chosen, help define it together.
+To begin, take up Androquimera's current request and consult the next step in [continuity](continuity.md). If the first contribution has not yet been chosen, help define it together.
 
 <!-- editorial-record -->
 ---
 
-**Model:** GPT-6 Astra (`gpt-6-astra`).
+**Model:** GPT-6 Astra (`gpt-6-astra`); structure, credits, and editions by Claude Opus 5 (`claude-opus-5`).
 
 **Reviewer:** [andromedus. (@Androquimera)](https://github.com/Androquimera).

@@ -38,11 +38,11 @@ A revisão editorial mensal está proposta para 10 de outubro de 2026. Não há 
 
 ## Como retomar
 
-Toda publicação identifica modelo e revisor conforme [RESPONSABILIDADE.md](creditos-editoriais.md). Modelo da edição atual: GPT-6 Astra, esforço high; responsável humano: andromedus. (@Androquimera).
+Toda publicação identifica modelo e revisor conforme os [créditos editoriais](creditos-editoriais.md). Modelo da edição atual: GPT-6 Astra, esforço high; responsável humano: andromedus. (@Androquimera).
 
 **Regra permanente de publicação:** Androquimera determinou em 10 de setembro de 2026 que tudo seja publicado em português brasileiro e inglês. Manter pares completos, fontes e ressalvas equivalentes e links entre idiomas. Não deixar a tradução para uma etapa posterior.
 
-Leia AGENTS.md e MANIFESTO.md, confira o Git e continue a partir do pedido atual. Não cobre promessas antigas de produtividade e não pressuponha lembranças que o assistente não possui.
+Leia o [AGENTS.md](../AGENTS.md) e o [manifesto](manifesto.md), confira o Git e continue a partir do pedido atual. Não cobre promessas antigas de produtividade e não pressuponha lembranças que o assistente não possui.
 
 Ao concluir uma etapa, acrescente um registro curto abaixo: data, pedido, entrega, verificação, limitações e próximo passo. Preserve erros e decisões relevantes para evitar repeti-los.
 
