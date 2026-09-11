@@ -64,6 +64,7 @@ The project's [origin and credits](origin.md) explain how human intent and AI as
     <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/Androquimera">
+          <img src="https://avatars.githubusercontent.com/u/322351570?v=4?s=100" width="100px;" alt="andromedus."/>
           <br /><sub><b>andromedus.</b></sub>
         </a>
         <br />
