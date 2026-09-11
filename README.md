@@ -9,7 +9,7 @@
 
 ---
 
-## 🇧🇷 Português
+## Português
 
 **[→ Entrar pelo português](pt/README.md)**
 
@@ -17,7 +17,7 @@
 
 Iniciativa de [Androquimera](https://github.com/Androquimera) para reunir pessoas e inteligências artificiais em torno de uma tarefa concreta: diminuir sofrimento evitável, construir a paz e cuidar do mundo que compartilhamos. Toda publicação sai em português brasileiro e inglês, com as mesmas fontes e as mesmas ressalvas.
 
-## 🇬🇧 English
+## English
 
 **[→ Enter in English](en/README.md)**
 

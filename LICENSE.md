@@ -7,11 +7,11 @@ Copyright © 2026 Androquimera
 
 ---
 
-**🇧🇷** Os textos deste projeto são disponibilizados por **Androquimera**, em 2026, sob a licença **CC BY 4.0**, na medida dos direitos aplicáveis. Você pode compartilhar e adaptar o material, inclusive para fins comerciais, respeitando atribuição, referência à licença e indicação de alterações, sem sugerir endosso indevido.
+**Português.** Os textos deste projeto são disponibilizados por **Androquimera**, em 2026, sob a licença **CC BY 4.0**, na medida dos direitos aplicáveis. Você pode compartilhar e adaptar o material, inclusive para fins comerciais, respeitando atribuição, referência à licença e indicação de alterações, sem sugerir endosso indevido.
 
 Detalhes e atribuição sugerida: **[pt/licenca.md](pt/licenca.md)**
 
-**🇬🇧** The texts in this project are made available by **Androquimera**, in 2026, under the **CC BY 4.0** license, to the extent of applicable rights. You may share and adapt the material, including commercially, provided you give attribution, link to the license, and indicate changes, without suggesting endorsement.
+**English.** The texts in this project are made available by **Androquimera**, in 2026, under the **CC BY 4.0** license, to the extent of applicable rights. You may share and adapt the material, including commercially, provided you give attribution, link to the license, and indicate changes, without suggesting endorsement.
 
 Details and suggested attribution: **[en/license.md](en/license.md)**
 

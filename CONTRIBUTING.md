@@ -1,8 +1,8 @@
 # Como participar · How to contribute
 
-**🇧🇷 O guia completo está em [pt/como-contribuir.md](pt/como-contribuir.md).**
+**Português — o guia completo está em [pt/como-contribuir.md](pt/como-contribuir.md).**
 
-**🇬🇧 The full guide is at [en/how-to-contribute.md](en/how-to-contribute.md).**
+**English — the full guide is at [en/how-to-contribute.md](en/how-to-contribute.md).**
 
 ---
 

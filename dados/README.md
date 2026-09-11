@@ -1,8 +1,8 @@
 # Dados brutos · Raw data
 
-**🇧🇷** Esta pasta guarda os dados brutos citados pelo acervo. Dado não tem idioma, por isso mora fora das árvores `pt/` e `en/`: as duas citam o mesmo arquivo, e assim nenhuma versão pode divergir da outra.
+**Português.** Esta pasta guarda os dados brutos citados pelo acervo. Dado não tem idioma, por isso mora fora das árvores `pt/` e `en/`: as duas citam o mesmo arquivo, e assim nenhuma versão pode divergir da outra.
 
-**🇬🇧** This folder holds the raw data cited by the collection. Data has no language, so it lives outside the `pt/` and `en/` trees: both cite the same file, and no version can drift from the other.
+**English.** This folder holds the raw data cited by the collection. Data has no language, so it lives outside the `pt/` and `en/` trees: both cite the same file, and no version can drift from the other.
 
 ---
 
